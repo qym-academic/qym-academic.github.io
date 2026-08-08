@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: 亚波长电磁学课题组 # the website title (if blank, full name will be used instead)
-first_name:
+first_name: 亚波长电磁学
 middle_name:
-last_name:
+last_name: 课题组
 contact_note: >
   南京邮电大学，南京市仙林大学城文苑路9号，210023。邮箱：ymqing@njupt.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

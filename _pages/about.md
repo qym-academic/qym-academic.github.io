@@ -1,14 +1,19 @@
 ---
 layout: about
-title: about
+title: 首页
 permalink: /
-subtitle: Personal academic homepage · GitHub Pages
+subtitle: 亚波长电磁学、微纳光子学、电磁超构器件
+nav: true
+nav_order: 1
 
 profile:
   align: right
-  image:
+  image: qymgroup/yeming-qing.png
   image_circular: false
-  more_info:
+  more_info: >
+    <p><strong>庆业明</strong></p>
+    <p>副教授、硕士生导师</p>
+    <p>南京邮电大学</p>
 
 selected_papers: false
 social: false
@@ -24,14 +29,35 @@ latest_posts:
   limit: 3
 ---
 
-# Academic profile in preparation
+<img src="{{ '/assets/img/qymgroup/research-banner.jpg' | relative_url }}" alt="亚波长电磁学研究示意图" style="width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
 
-This is the first version of a personal academic homepage. Verified biographical and research information will be added step by step before the full site is announced.
+## 课题组简介
 
-## Planned sections
+副教授，硕士生导师，日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）；主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。
 
-- Research interests and current projects
-- Selected publications and complete publication list
-- Academic experience, education, and awards
-- Teaching, academic service, and collaboration
-- Curriculum vitae and verified contact links
+迄今，以一作或通讯发表 50 余篇学术论文，含 *Advanced Composites and Hybrid Materials*、*Laser & Photonics Reviews*、*Carbon*、*Materials Today Physics*、*ACS Photonics*、*Nanophotonics*、*International Communications in Heat and Mass Transfer*、*Applied Thermal Engineering*、*Optics Letters*、*Optics Express*、*Applied Physics Letters*、*Physical Review A* 等国际知名期刊；研究成果被引 1,700 余次，H-index 为 24，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。
+
+系《Photonics》《Optics and Photonics Reseach》青年编委，中国光学学会会员、中国物理学会会员、美国光学学会会员、国际光学工程学会会员；长期担任 *Light: Science & Applications*、*Laser & Photonics Reviews*、*ACS Photonics*、*Photonics Research*、*Applied Physics Letters*、*Optics Letters*、*Optics Express* 等数十本知名期刊审稿人。
+
+## 研究方向
+
+1. 电磁超构材料 / 超表面
+2. 新型亚波长电磁器件
+3. 红外光子学、非互易辐射
+4. 低维光学材料、微纳光学
+
+[查看研究方向]({{ '/research/' | relative_url }}) · [查看团队成员]({{ '/people/' | relative_url }}) · [查看成果及论文]({{ '/publications/' | relative_url }})
+
+## 荣誉与奖励
+
+- 日本学振研究员（2025）
+- 《Photonics》青年编委（2026）
+- 《Optics and Photonics Reseach》青年编委（2026）
+- Bset Oral Presentation Award（2026）
+- World's Top 2% Scientists, Elsevier & Stanford University（2025）
+- 江苏省科协青年托举人才（2024）
+- 南京邮电大学华礼创新拔尖人才（2025）
+- 英国物理学会高被引论文奖（1/4）（2021 & 2022）
+- 研究生国家奖学金（2017 & 2020）
+- 东南大学优秀毕业生（2022）
+- 合肥工业大学优秀毕业生（2018）

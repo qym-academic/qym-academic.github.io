@@ -4,7 +4,7 @@ title: 招生与联系
 permalink: /contact/
 nav: true
 nav_order: 5
-description: 亚波长电磁学课题组招生与联系方式
+description: 亚波长电磁学、微纳光子学、电磁超构器件
 ---
 
 ## 欢迎加入

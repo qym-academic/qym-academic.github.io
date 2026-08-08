@@ -35,9 +35,9 @@ latest_posts:
 
 副教授，硕士生导师，日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）；主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。
 
-迄今，以一作或通讯发表 50 余篇学术论文，含 *Advanced Composites and Hybrid Materials*、*Laser & Photonics Reviews*、*Carbon*、*Materials Today Physics*、*ACS Photonics*、*Nanophotonics*、*International Communications in Heat and Mass Transfer*、*Applied Thermal Engineering*、*Optics Letters*、*Optics Express*、*Applied Physics Letters*、*Physical Review A* 等国际知名期刊；研究成果被引 1,700 余次，H-index 为 24，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。
+迄今，以一作或通讯发表 50 余篇学术论文，含 _Advanced Composites and Hybrid Materials_、_Laser & Photonics Reviews_、_Carbon_、_Materials Today Physics_、_ACS Photonics_、_Nanophotonics_、_International Communications in Heat and Mass Transfer_、_Applied Thermal Engineering_、_Optics Letters_、_Optics Express_、_Applied Physics Letters_、_Physical Review A_ 等国际知名期刊；研究成果被引 1,700 余次，H-index 为 24，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。
 
-系《Photonics》《Optics and Photonics Reseach》青年编委，中国光学学会会员、中国物理学会会员、美国光学学会会员、国际光学工程学会会员；长期担任 *Light: Science & Applications*、*Laser & Photonics Reviews*、*ACS Photonics*、*Photonics Research*、*Applied Physics Letters*、*Optics Letters*、*Optics Express* 等数十本知名期刊审稿人。
+系《Photonics》《Optics and Photonics Reseach》青年编委，中国光学学会会员、中国物理学会会员、美国光学学会会员、国际光学工程学会会员；长期担任 _Light: Science & Applications_、_Laser & Photonics Reviews_、_ACS Photonics_、_Photonics Research_、_Applied Physics Letters_、_Optics Letters_、_Optics Express_ 等数十本知名期刊审稿人。
 
 ## 研究方向
 

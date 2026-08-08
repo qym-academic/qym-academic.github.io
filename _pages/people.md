@@ -58,8 +58,8 @@ description: 亚波长电磁学课题组团队成员
 课题组学生姓名以粗体标示。
 
 - **蒋卓凡**：2026年江苏省研究生科研实践创新项目。
-- **Gao J.**; Qing Y. M.\*; Ren Y.; **Jiang Z.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons.” *Optical Materials Express*, 2026, 16(5), 1470–1479. [论文链接](https://doi.org/10.1364/OME.599518)
-- **Jiang Z.**; Qing Y. M.\*; Gou Y.; **Gao J.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal.” *Applied Optics*, 2026, 65(12), 4150–4155. [论文链接](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-12-4150)
-- Ren Y.; **Gao J.**; **Jiang Z.**; Yang Z.; Liu J.; Gou Y.\*; Qing Y. M.\*; “Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial.” *Photonics*, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
-- Qing Y. M.\*; **Gao J.**; **Jiang Z.**; “Dynamically Tunable Nonreciprocal Radiation in Hybrid Metastructures.” *PIERS 2025*, Chiba, Japan. [会议论文](https://ieeexplore.ieee.org/abstract/document/11394682)
+- **Gao J.**; Qing Y. M.\*; Ren Y.; **Jiang Z.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons.” _Optical Materials Express_, 2026, 16(5), 1470–1479. [论文链接](https://doi.org/10.1364/OME.599518)
+- **Jiang Z.**; Qing Y. M.\*; Gou Y.; **Gao J.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal.” _Applied Optics_, 2026, 65(12), 4150–4155. [论文链接](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-12-4150)
+- Ren Y.; **Gao J.**; **Jiang Z.**; Yang Z.; Liu J.; Gou Y.\*; Qing Y. M.\*; “Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial.” _Photonics_, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
+- Qing Y. M.\*; **Gao J.**; **Jiang Z.**; “Dynamically Tunable Nonreciprocal Radiation in Hybrid Metastructures.” _PIERS 2025_, Chiba, Japan. [会议论文](https://ieeexplore.ieee.org/abstract/document/11394682)
 - 庆业明；**高家乐**；**蒋卓凡**；勾越；任永泽；刘娇；杨朝雁；“一种基于相变材料-外尔半金属结构的可调非互易吸波器”，2025-12-04，中国，CN202511815410.6。

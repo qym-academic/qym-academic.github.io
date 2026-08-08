@@ -4,7 +4,7 @@ title: 研究方向
 permalink: /research/
 nav: true
 nav_order: 2
-description: 亚波长电磁学课题组的主要研究方向
+description: 亚波长电磁学、微纳光子学、电磁超构器件
 ---
 
 <h2 style="color: var(--global-theme-color);">01 · 电磁超构材料 / 超表面</h2>

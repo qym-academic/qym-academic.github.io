@@ -4,7 +4,7 @@ title: 团队成员
 permalink: /people/
 nav: true
 nav_order: 3
-description: 亚波长电磁学课题组团队成员
+description: 亚波长电磁学、微纳光子学、电磁超构器件
 ---
 
 <h2 style="color: var(--global-theme-color);">课题组负责人</h2>

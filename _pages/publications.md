@@ -111,6 +111,8 @@ description: 期刊论文、会议论文与授权专利
 - **[02]** <strong>Qing Y. M.</strong>; Ma H. F.; Cui T. J.; Strong Coupling between Magnetic Plasmons and Surface Plasmons in a Black Phosphorus-Spacer-Metallic Grating Hybrid System. _Optics Letters_, 2018, 43, 4985. [论文链接](https://opg.optica.org/ol/abstract.cfm?uri=ol-43-20-4985)
 - **[01]** Hu J.; <strong>Qing Y. M.</strong>; Yang S.; Ren Y.; Wu X.; Gao W.; Wu C.; Tailoring Total Absorption in a Graphene Monolayer Covered Subwavelength Multilayer Dielectric Grating Structure at Near-Infrared Frequencies. _Journal of the Optical Society of America B_, 2017, 34, 861. [论文链接](https://opg.optica.org/josab/abstract.cfm?uri=josab-34-4-861)
 
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
+
 ## 会议论文
 
 - **[09]** <strong>Qing Y. M.</strong>; Murai S.; Okamoto K.; Active Control of Nonreciprocal Thermal Radiation via Hybrid Metastructures. _PhotonIcs & Electromagnetics Research Symposium (PIERS 2026)_, Suzhou, China. (2025.07.27–2025.07.31) [会议链接](https://suzhou2026.piers.org/session.html?sid=S187)
@@ -122,6 +124,8 @@ description: 期刊论文、会议论文与授权专利
 - **[03]** <strong>Qing Y. M.</strong>; Wu L. W.; Ma H. F.; Tailoring Strong Multimode Interaction in a Graphene-Based Coupled Plasmonic System. _NEMO 2020_, 2020, 1–4. [会议论文](https://ieeexplore.ieee.org/document/9343385)
 - **[02]** Hu J.; Ren Y.; <strong>Qing Y. M.</strong>; Yao E.; Wu X.; Li H.; Liu W.; Xie W.; Dual-Band Total Absorption via Guided-Mode Resonance in a Monolayer MoS2 Covered Dielectric Grating Structure. _Nanophotonics and Micro/Nano Optics IV_, 2018, 28. [会议论文](https://doi.org/10.1117/12.2500992)
 - **[01]** Hu J.; <strong>Qing Y. M.</strong>; Wen Z.; Wu X.; Ren R.; Gao W.; Li D.; Gao F.; High-Performance One-Way Transmission Using Pyramid-Shaped Silicon Grating-Coupled Hyperbolic Metamaterial. _SPIE Proceedings_, 2016, 10027, 100270K. [会议论文](https://doi.org/10.1117/12.2246253)
+
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
 ## 专利
 

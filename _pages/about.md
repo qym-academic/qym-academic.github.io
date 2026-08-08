@@ -94,6 +94,7 @@ latest_posts:
       <a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a>
       <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
       <a href="https://www.researchgate.net/profile/Ye_Ming_Qing2" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate" aria-hidden="true"></i>ResearchGate</a>
+      <a href="mailto:ymqing@njupt.edu.cn"><i class="fa-solid fa-envelope" aria-hidden="true"></i>ymqing@njupt.edu.cn</a>
     </div>
   </div>
   <div class="home-bio-copy">

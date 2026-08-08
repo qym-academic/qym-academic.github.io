@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 招生与联系
+title: 联系
 permalink: /contact/
 nav: true
 nav_order: 5

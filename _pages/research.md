@@ -17,11 +17,23 @@ description: 亚波长电磁学课题组的主要研究方向
 
 围绕可重构数字编码超表面、双手性超表面及各向异性超材料，研究电磁波的幅度、偏振、频率与波前调控。相关成果涵盖反射—透射可重构全息、偏振—频率复用波前操控，以及黑磷/介质各向异性超材料的宽角超宽带吸收。
 
+**代表论文**
+
+- “Low-absorption dual-chirality metasurfaces for polarization-frequency multiplexed wavefront manipulation.” _Chemical Physics Letters_, **885**, 142612 (2026).
+- “Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection-Transmission Reconfigurable Digital Coding Metasurface.” _Advanced Optical Materials_, **10**, 2102657 (2022).
+- “Transmission–Reflection Controls and Polarization Controls of Electromagnetic Holograms by a Reconfigurable Anisotropic Digital Coding Metasurface.” _Advanced Optical Materials_, **8**, 2001065 (2020).
+
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
 <h2 style="color: var(--global-theme-color);">02 · 新型亚波长电磁器件</h2>
 
 结合光栅、光子晶体、Tamm 等离激元和导模共振，发展可调吸收、滤波与强耦合器件。代表性工作包括硼烯—Tamm 等离激元独立可调双带近红外吸收器、混合光栅—光子晶体双通道超高 Q 吸收器，以及石墨烯导模共振热—电调谐吸收器。
+
+**代表论文**
+
+- “Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons.” _Optical Materials Express_, **16**, 1470 (2026).
+- “Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal.” _Applied Optics_, **65**, 4150 (2026).
+- “Thermally-Electrically Tunable Graphene-Based Guided-Mode Resonant Perfect Absorber.” _IEEE Photonics Technology Letters_, **35**, 175 (2023).
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
@@ -29,8 +41,20 @@ description: 亚波长电磁学课题组的主要研究方向
 
 面向红外辐射调控，利用外尔半金属、石墨烯、InAs、相变材料 GST 与磁光材料，研究小角度及近法向入射条件下的宽带、多通道非互易热辐射。相关工作重点关注低磁场驱动、相变重构和光栅共振增强等动态调控机制。
 
+**代表论文**
+
+- “Tunable small-angle nonreciprocal radiation and broadband absorption in a GST–Weyl semimetal resonant structure.” _Applied Physics Letters_, **128**, 082202 (2026).
+- “Near-Perfect Nonreciprocal Radiation with a 0.3 T Magnetic Field for near Normal Incidence.” _Applied Thermal Engineering_, **278**, 127243 (2025).
+- “Dynamic Modulation of Nonreciprocal Absorption in a Graphene–InAs Hybrid Structure under Low Magnetic Field and Small Incident Angles.” _Optics Letters_, **50**, 1552 (2025).
+
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
 <h2 style="color: var(--global-theme-color);">04 · 低维光学材料、微纳光学</h2>
 
 围绕石墨烯、黑磷、硼烯及 WS₂、MoS₂ 等低维材料，研究表面等离激元耦合、激子强耦合、导模共振和光俘获。通过材料光学响应与微纳结构共振协同设计，实现吸收增强、模式调控与主动可调光学功能。
+
+**代表论文**
+
+- “Manipulating the Interaction between Propagating Surface Plasmons and Localized Magnetic Polaritons in a Borophene-Based Hybrid System.” _Physical Review A_, **109**, 013504 (2024).
+- “Strong Coupling of Excitons in Patterned Few-Layer WS₂ with Guided Mode and Bound State in the Continuum.” _Physical Chemistry Chemical Physics_, **24**, 23382 (2022).
+- “Ultra-Narrowband Absorption Enhancement in Monolayer Transition-Metal Dichalcogenides with Simple Guided-Mode Resonance Filters.” _Journal of Applied Physics_, **125**, 213108 (2019).

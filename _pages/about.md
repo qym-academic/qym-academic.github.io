@@ -54,6 +54,17 @@ latest_posts:
     margin-top: 0;
   }
 
+  .home-details-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .home-details-grid h2 {
+    margin-top: 0;
+  }
+
   @media (max-width: 575.98px) {
     .home-bio-grid {
       grid-template-columns: 1fr;
@@ -63,6 +74,11 @@ latest_posts:
     .home-bio-profile {
       width: min(100%, 240px);
       margin: 0 auto;
+    }
+
+    .home-details-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
   }
 </style>
@@ -87,24 +103,31 @@ latest_posts:
   </div>
 </div>
 
-## 科研项目
-
-- 国家自然科学基金青年项目（主持）
-- 日本学振外籍研究员（主持）
-- 江苏省科协青年托举人才项目（主持）
-- 江苏省教育厅面上项目（主持）
-- 国重实验室开放课题（主持）
-
-## 荣誉与奖励
-
-- 日本学振研究员（2025）
-- 《Photonics》青年编委（2026）
-- 《Optics and Photonics Reseach》青年编委（2026）
-- Bset Oral Presentation Award（2026）
-- World's Top 2% Scientists, Elsevier & Stanford University（2025）
-- 江苏省科协青年托举人才（2024）
-- 南京邮电大学华礼创新拔尖人才（2025）
-- 英国物理学会高被引论文奖（1/4）（2021 & 2022）
-- 研究生国家奖学金（2017 & 2020）
-- 东南大学优秀毕业生（2022）
-- 合肥工业大学优秀毕业生（2018）
+<div class="home-details-grid">
+  <section>
+    <h2>科研项目</h2>
+    <ul>
+      <li>国家自然科学基金青年项目（主持）</li>
+      <li>日本学振外籍研究员（主持）</li>
+      <li>江苏省科协青年托举人才项目（主持）</li>
+      <li>江苏省教育厅面上项目（主持）</li>
+      <li>国重实验室开放课题（主持）</li>
+    </ul>
+  </section>
+  <section>
+    <h2>荣誉与奖励</h2>
+    <ul>
+      <li>日本学振研究员（2025）</li>
+      <li>《Photonics》青年编委（2026）</li>
+      <li>《Optics and Photonics Reseach》青年编委（2026）</li>
+      <li>Bset Oral Presentation Award（2026）</li>
+      <li>World's Top 2% Scientists, Elsevier & Stanford University（2025）</li>
+      <li>江苏省科协青年托举人才（2024）</li>
+      <li>南京邮电大学华礼创新拔尖人才（2025）</li>
+      <li>英国物理学会高被引论文奖（1/4）（2021 & 2022）</li>
+      <li>研究生国家奖学金（2017 & 2020）</li>
+      <li>东南大学优秀毕业生（2022）</li>
+      <li>合肥工业大学优秀毕业生（2018）</li>
+    </ul>
+  </section>
+</div>

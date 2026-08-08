@@ -74,7 +74,7 @@ description: 期刊论文、会议论文与授权专利
 - **[25]** Huang Z. T.; Jiang H. Y.; Wang Z. Y.; <strong>Qing Y. M.*</strong>; Li B. X.; Thermally-Electrically Tunable Graphene-Based Guided-Mode Resonant Perfect Absorber. _IEEE Photonics Technology Letters_, 2023, 35, 175–178. [论文链接](https://ieeexplore.ieee.org/document/9982685)
 - **[24]** <strong>Qing Y. M.</strong>; Huang Z.; Jiang H.; Li B.; Polarization-Dependent Thermal-Tunable Graphene-Based Metamaterial Exploiting Critical Coupling with Guided Mode Resonances. _Journal of the Optical Society of America B_, 2023, 40, 233. [论文链接](https://opg.optica.org/josab/abstract.cfm?uri=josab-40-2-233)
 - **[23]** Fu Y.#; <strong>Qing Y. M.#</strong>; Li Z.; Zayats A. V.; Lei D.; Tale of Two Resonances: Waveguide–Plasmon Coupling and High Q-Factor Engineering on the Nanoscale. _ACS Photonics_, 2023, 10, 2–12. <span class="publication-badge">(Front Cover)</span> [论文链接](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c01271)
-- **[22]** Wu J.; <strong>Qing Y. M.*</strong>; Wide-Angle and Broadband Nonreciprocal Thermal Emitter with Cascaded Dielectric and Weyl Semimetal Grating Structure. _Applied Physics Letters_, 2023, 122, 112201. <span class="publication-badge">(ESI Highly Cited Paper)</span> [原主页链接](https://pubs.aip.org/aip/apl/article-abstract/122/1/012203/2876466/Wide-angle-and-broadband-nonreciprocal-thermal)
+- **[22]** Wu J.; <strong>Qing Y. M.*</strong>; Wide-Angle and Broadband Nonreciprocal Thermal Emitter with Cascaded Dielectric and Weyl Semimetal Grating Structure. _Applied Physics Letters_, 2023, 122, 112201. <span class="publication-badge">(ESI Highly Cited Paper)</span> [论文链接](https://pubs.aip.org/aip/apl/article-abstract/122/1/012203/2876466/Wide-angle-and-broadband-nonreciprocal-thermal)
 
 ### 2022
 

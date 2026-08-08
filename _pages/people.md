@@ -25,28 +25,23 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.5rem;">
   <article>
     <h3>高家乐</h3>
-    <p><strong>硕士研究生（25级）</strong><br>进组时间：2025.07</p>
-    <p>2025.09～至今：南京邮电大学，硕士</p>
+    <p><strong>硕士研究生（25级）</strong></p>
   </article>
   <article>
     <h3>蒋卓凡</h3>
-    <p><strong>硕士研究生（25级）</strong><br>进组时间：2025.07</p>
-    <p>2025.09～至今：南京邮电大学，硕士</p>
+    <p><strong>硕士研究生（25级）</strong></p>
   </article>
   <article>
     <h3>周志远</h3>
-    <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <p>2026.09～至今：南京邮电大学，硕士</p>
+    <p><strong>硕士研究生（26级）</strong></p>
   </article>
   <article>
     <h3>叶浩炜</h3>
-    <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <p>2026.09～至今：南京邮电大学，硕士</p>
+    <p><strong>硕士研究生（26级）</strong></p>
   </article>
   <article>
     <h3>张欣雨</h3>
-    <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <p>2026.09～至今：南京邮电大学，硕士</p>
+    <p><strong>硕士研究生（26级）</strong></p>
   </article>
 </div>
 
@@ -62,3 +57,9 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 - Ren Y.; **Gao J.**; **Jiang Z.**; Yang Z.; Liu J.; Gou Y.\*; Qing Y. M.\*; “Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial.” _Photonics_, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
 - Qing Y. M.\*; **Gao J.**; **Jiang Z.**; “Dynamically Tunable Nonreciprocal Radiation in Hybrid Metastructures.” _PIERS 2025_, Chiba, Japan. [会议论文](https://ieeexplore.ieee.org/abstract/document/11394682)
 - 庆业明；**高家乐**；**蒋卓凡**；勾越；任永泽；刘娇；杨朝雁；“一种基于相变材料-外尔半金属结构的可调非互易吸波器”，2025-12-04，中国，CN202511815410.6。
+
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
+
+<h2 style="color: var(--global-theme-color);">往届学生</h2>
+
+暂无

@@ -10,8 +10,8 @@ profile:
   image_circular: false
   more_info: >
     <div style="display: flex; flex-direction: column; align-items: center; gap: 0.35rem; text-align: center;">
-      <a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i>&nbsp; Google Scholar</a>
-      <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>&nbsp; ORCID</a>
+      <a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.2rem;"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.2rem;"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
     </div>
 
 selected_papers: false

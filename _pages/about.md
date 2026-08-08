@@ -57,6 +57,7 @@ latest_posts:
   .research-projects {
     display: grid;
     gap: 0.5rem;
+    padding-left: 2.5rem;
     margin-bottom: 2rem;
   }
 

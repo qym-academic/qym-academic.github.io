@@ -13,6 +13,10 @@ description: 期刊论文、会议论文与授权专利
     text-indent: -1.9rem;
   }
 
+  article em {
+    font-weight: 700;
+  }
+
   .publication-badge {
     color: #b45309;
     font-weight: 700;

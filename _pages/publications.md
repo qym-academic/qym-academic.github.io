@@ -8,7 +8,7 @@ description: 期刊论文、会议论文与授权专利
 ---
 
 <style>
-  .publication-list > li {
+  article ul > li {
     padding-left: 3.65rem;
     text-indent: -3.65rem;
   }
@@ -38,8 +38,6 @@ description: 期刊论文、会议论文与授权专利
 - **[52]** Yang Z.; <strong>Qing Y. M.</strong>; Zhu K.; Yang K.; Zong S.; Wang Z.; One-step encapsulation of CsPbBr3 nanocrystals with customized polyethylene glycol for single-molecule localization microscopy imaging of cellular microstructures. _Optical Materials_, 2026, 174, 117987. [论文链接](https://www.sciencedirect.com/science/article/pii/S0925346726001461)
 - **[51]** Gou Y.; Zheng S.; <strong>Qing Y. M.*</strong>; Wang Z. X.; Wu L. W.; Liu L. L.\*; Ma H. F.\*; Low-absorption dual-chirality metasurfaces for polarization-frequency multiplexed wavefront manipulation. _Chemical Physics Letters_, 2026, 885, 142612. [论文链接](https://www.sciencedirect.com/science/article/pii/S0009261425007559)
 
-{: .publication-list}
-
 ### 2025
 
 - **[50]** Ren Y.; Gao J.; Jiang Z.; Yang Z.; Liu J.; Gou Y.\*; <strong>Qing Y. M.*</strong>; Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial. _Photonics_, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
@@ -51,8 +49,6 @@ description: 期刊论文、会议论文与授权专利
 - **[44]** <strong>Qing Y. M.*</strong>; Liu J.; Yang Z.; Wu L.; Gou Y.; Wu J.; Li B.; Dynamic Modulation of Nonreciprocal Absorption in a Graphene–InAs Hybrid Structure under Low Magnetic Field and Small Incident Angles. _Optics Letters_, 2025, 50, 1552–1555. [论文链接](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-5-1552)
 - **[43]** Yang Z.; Zhu K.; Yang K.; <strong>Qing Y. M.</strong>; Zhao Y.; Wu L.; Zong S.; Cui Y.; Wang Z.; One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate. _Talanta_, 2025, 282, 127076. [论文链接](https://www.sciencedirect.com/science/article/pii/S0039914024014553)
 
-{: .publication-list}
-
 ### 2024
 
 - **[42]** <strong>Qing Y. M.*</strong>; Yang Z.; Wang Y.; Ren Y.; Wu J.; Polarization-Dependent near-Field Coupling and Far-Field Harmonic Modulation in a Graphene-Based Plasmonic Nanostructure. _Physica Scripta_, 2024, 99, 105547. [论文链接](https://iopscience.iop.org/article/10.1088/1402-4896/ad78ca)
@@ -62,8 +58,6 @@ description: 期刊论文、会议论文与授权专利
 - **[38]** Wu J.; <strong>Qing Y. M.*</strong>; The Enhanced Nonreciprocal Radiation in a Grating Structure Containing a Weyl Semimetal Film under Conical Incidence. _International Communications in Heat and Mass Transfer_, 2024, 151, 107254. <span class="publication-badge">(ESI Highly Cited Paper)</span> [论文链接](https://www.sciencedirect.com/science/article/pii/S0735193324000162)
 - **[37]** <strong>Qing Y. M.*</strong>; Wang Y.; Yang Z.; Wu J.; Yu S.; Manipulating the Interaction between Propagating Surface Plasmons and Localized Magnetic Polaritons in a Borophene-Based Hybrid System. _Physical Review A_, 2024, 109, 013504. [论文链接](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.013504)
 - **[36]** Wu J.; <strong>Qing Y. M.*</strong>; Tunable Nonreciprocal Radiation for near Vertical Incident Light Based on Graphene and Weyl Semimetal. _International Communications in Heat and Mass Transfer_, 2024, 150, 107187. [论文链接](https://www.sciencedirect.com/science/article/pii/S0735193323005766)
-
-{: .publication-list}
 
 ### 2023
 
@@ -82,8 +76,6 @@ description: 期刊论文、会议论文与授权专利
 - **[23]** Fu Y.#; <strong>Qing Y. M.#</strong>; Li Z.; Zayats A. V.; Lei D.; Tale of Two Resonances: Waveguide–Plasmon Coupling and High Q-Factor Engineering on the Nanoscale. _ACS Photonics_, 2023, 10, 2–12. <span class="publication-badge">(Front Cover)</span> [论文链接](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c01271)
 - **[22]** Wu J.; <strong>Qing Y. M.*</strong>; Wide-Angle and Broadband Nonreciprocal Thermal Emitter with Cascaded Dielectric and Weyl Semimetal Grating Structure. _Applied Physics Letters_, 2023, 122, 112201. <span class="publication-badge">(ESI Highly Cited Paper)</span> [原主页链接](https://pubs.aip.org/aip/apl/article-abstract/122/1/012203/2876466/Wide-angle-and-broadband-nonreciprocal-thermal)
 
-{: .publication-list}
-
 ### 2022
 
 - **[21]** Wu J.; <strong>Qing Y. M.*</strong>; Strong Coupling of Exciton and Guided Mode in Perovskite Film with High Fabrication-Tolerant Scheme. _Optics & Laser Technology_, 2022, 155, 108437. [论文链接](https://www.sciencedirect.com/science/article/pii/S0030399222005941)
@@ -93,8 +85,6 @@ description: 期刊论文、会议论文与授权专利
 - **[17]** Wu L. W.; Xiao Q.; Gou Y.; Wu R. Y.; Xu P.; <strong>Qing Y. M.</strong>; Wang Z. X.; Bao L.; Ma H. F.; Cui T. J.; Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection-Transmission Reconfigurable Digital Coding Metasurface. _Advanced Optical Materials_, 2022, 10, 2102657. [论文链接](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202102657)
 - **[16]** Xu Y.#; Fan Y.#; <strong>Qing Y. M.</strong>; Cui T. J.; Lei D.; A Generalized Method for Calculating Plasmoelectric Potential in Non-Mie-Resonant Plasmonic Systems. _Nanophotonics_, 2022, 11, 2453–2464. [论文链接](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2021-0610/html)
 - **[15]** <strong>Qing Y. M.</strong>; Ren Y.; Lei D.; Ma H. F.; Cui T. J.; Strong Coupling in Two-Dimensional Materials-Based Nanostructures: A Review. _Journal of Optics_, 2022, 24, 024009. [论文链接](https://iopscience.iop.org/article/10.1088/2040-8986/ac47b3)
-
-{: .publication-list}
 
 ### 2017–2021
 
@@ -113,8 +103,6 @@ description: 期刊论文、会议论文与授权专利
 - **[02]** <strong>Qing Y. M.</strong>; Ma H. F.; Cui T. J.; Strong Coupling between Magnetic Plasmons and Surface Plasmons in a Black Phosphorus-Spacer-Metallic Grating Hybrid System. _Optics Letters_, 2018, 43, 4985. [论文链接](https://opg.optica.org/ol/abstract.cfm?uri=ol-43-20-4985)
 - **[01]** Hu J.; <strong>Qing Y. M.</strong>; Yang S.; Ren Y.; Wu X.; Gao W.; Wu C.; Tailoring Total Absorption in a Graphene Monolayer Covered Subwavelength Multilayer Dielectric Grating Structure at Near-Infrared Frequencies. _Journal of the Optical Society of America B_, 2017, 34, 861. [论文链接](https://opg.optica.org/josab/abstract.cfm?uri=josab-34-4-861)
 
-{: .publication-list}
-
 ## 会议论文
 
 - **[09]** <strong>Qing Y. M.</strong>; Murai S.; Okamoto K.; Active Control of Nonreciprocal Thermal Radiation via Hybrid Metastructures. _PhotonIcs & Electromagnetics Research Symposium (PIERS 2026)_, Suzhou, China. (2025.07.27–2025.07.31) [会议链接](https://suzhou2026.piers.org/session.html?sid=S187)
@@ -127,8 +115,6 @@ description: 期刊论文、会议论文与授权专利
 - **[02]** Hu J.; Ren Y.; <strong>Qing Y. M.</strong>; Yao E.; Wu X.; Li H.; Liu W.; Xie W.; Dual-Band Total Absorption via Guided-Mode Resonance in a Monolayer MoS2 Covered Dielectric Grating Structure. _Nanophotonics and Micro/Nano Optics IV_, 2018, 28. [会议论文](https://doi.org/10.1117/12.2500992)
 - **[01]** Hu J.; <strong>Qing Y. M.</strong>; Wen Z.; Wu X.; Ren R.; Gao W.; Li D.; Gao F.; High-Performance One-Way Transmission Using Pyramid-Shaped Silicon Grating-Coupled Hyperbolic Metamaterial. _SPIE Proceedings_, 2016, 10027, 100270K. [会议论文](https://doi.org/10.1117/12.2246253)
 
-{: .publication-list}
-
 ## 专利
 
 - **[7]** <strong>庆业明</strong>；高家乐；蒋卓凡；勾越；任永泽；刘娇；杨朝雁；一种基于相变材料-外尔半金属结构的可调非互易吸波器，2025-12-04，中国，CN202511815410.6。
@@ -138,5 +124,3 @@ description: 期刊论文、会议论文与授权专利
 - **[3]** 刘娇；<strong>庆业明</strong>；宋振鹏；吴俊杰；周昕宇；马云；李炳祥；陆延青；赵强；一种基于软螺旋超结构圆偏振室温磷光的手性翻转动态调控方法，2025-03-18，中国，ZL202411759386.4。
 - **[2]** 刘娇；宋振鹏；魏娟；<strong>庆业明</strong>；马云；李炳祥；陆延青；赵强；一种基于胆甾相液晶弹性体圆偏振室温磷光动态调控的方法，2025-04-08，中国，ZL202411721082.9。
 - **[1]** 杨朝雁；詹籴炜；郝天宇；<strong>庆业明</strong>；一种基于金属纳米粒子域聚集的纳米塑料检测用 SERS 基底及其制备方法，2024-08-19，中国，CN202411135254.4。
-
-{: .publication-list}

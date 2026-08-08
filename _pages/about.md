@@ -9,11 +9,9 @@ profile:
   image: qymgroup/yeming-qing.png
   image_circular: false
   more_info: >
-    <p><a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
-    <p><a href="https://www.researchgate.net/profile/Ye_Ming_Qing2" target="_blank" rel="noopener noreferrer">ResearchGate</a></p>
-    <p><a href="https://www.scopus.com/inward/authorDetails.url?authorID=57204194086&partnerID=MN8TOARS" target="_blank" rel="noopener noreferrer">Scopus Author ID: 57204194086</a></p>
-    <p><a href="https://www.webofscience.com/wos/author/record/T-9772-2018" target="_blank" rel="noopener noreferrer">ResearcherID: T-9772-2018</a></p>
-    <p><a href="https://sciprofiles.com/profile/575789" target="_blank" rel="noopener noreferrer">SciProfiles: 575789</a></p>
+    <p><a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i>&nbsp; Google Scholar</a></p>
+    <p><a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>&nbsp; ORCID</a></p>
+    <p><a href="https://www.researchgate.net/profile/Ye_Ming_Qing2" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate" aria-hidden="true"></i>&nbsp; ResearchGate</a></p>
 
 selected_papers: false
 social: false
@@ -64,6 +62,6 @@ latest_posts:
 
 ## 访问统计
 
-国家/地区依据访客 IP 进行近似判断，统计从本计数器启用后开始。
+点击世界地图可查看访问次数和国家/地区统计，数据从本地图启用后开始记录。
 
-<a href="https://info.flagcounter.com/aYZG" target="_blank" rel="noopener noreferrer" aria-label="查看按国家和地区统计的访问详情"><img src="https://s01.flagcounter.com/count2/aYZG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="按国家和地区统计的访问次数" border="0" loading="eager" style="max-width: 100%; height: auto;"></a>
+<a href="https://smallcounter.com/vmap/1786167557/" target="_blank" rel="noopener noreferrer" aria-label="查看世界访客地图、访问次数和国家地区统计"><img src="https://smallcounter.com/map/view.php?type=180&id=1786167557" alt="世界访客地图和访问次数统计" loading="eager" style="max-width: 100%; height: auto;"></a>

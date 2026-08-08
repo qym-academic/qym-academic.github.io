@@ -9,9 +9,9 @@ description: 亚波长电磁学课题组团队成员
 
 ## 课题组负责人
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; align-items: start; margin-bottom: 2rem;">
-  <img src="{{ '/assets/img/qymgroup/yeming-qing.png' | relative_url }}" alt="庆业明" style="width: 100%; border-radius: 0.5rem;">
-  <div>
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="{{ '/assets/img/qymgroup/yeming-qing.png' | relative_url }}" alt="庆业明" style="width: min(100%, 300px); height: auto; flex: 0 1 300px; border-radius: 0.5rem;">
+  <div style="flex: 1 1 320px;">
     <h3 style="margin-top: 0;">庆业明</h3>
     <p><strong>副教授、硕士生导师</strong></p>
     <p>日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）。主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。</p>

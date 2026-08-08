@@ -9,8 +9,8 @@ description: 期刊论文、会议论文与授权专利
 
 <style>
   article ul > li {
-    padding-left: 3.65rem;
-    text-indent: -3.65rem;
+    padding-left: 1.9rem;
+    text-indent: -1.9rem;
   }
 
   .publication-badge {

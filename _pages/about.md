@@ -3,8 +3,6 @@ layout: about
 title: 首页
 permalink: /
 subtitle: 亚波长电磁学、微纳光子学、电磁超构器件
-nav: true
-nav_order: 1
 
 profile:
   align: right

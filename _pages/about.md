@@ -28,9 +28,9 @@ latest_posts:
   limit: 3
 ---
 
-## 课题组简介
+## 个人简介
 
-副教授，硕士生导师，日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）；主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。
+庆业明，副教授、硕士生导师，日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）；主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。
 
 迄今，以一作或通讯发表 50 余篇学术论文，含 _Advanced Composites and Hybrid Materials_、_Laser & Photonics Reviews_、_Carbon_、_Materials Today Physics_、_ACS Photonics_、_Nanophotonics_、_International Communications in Heat and Mass Transfer_、_Applied Thermal Engineering_、_Optics Letters_、_Optics Express_、_Applied Physics Letters_、_Physical Review A_ 等国际知名期刊；研究成果被引 1,700 余次，H-index 为 24，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。
 

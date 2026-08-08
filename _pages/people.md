@@ -22,34 +22,24 @@ description: 亚波长电磁学课题组团队成员
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.5rem;">
   <article>
-    <img src="{{ '/assets/img/qymgroup/gao-jiale.jpg' | relative_url }}" alt="高家乐" style="width: 100%; max-width: 280px; border-radius: 0.5rem;">
     <h3>高家乐</h3>
     <p><strong>硕士研究生（25级）</strong><br>进组时间：2025.07</p>
-    <ul><li>2025.09～至今：南京邮电大学，硕士研究生</li><li>2021.09～2025.07：安徽理工大学，本科</li></ul>
   </article>
   <article>
-    <img src="{{ '/assets/img/qymgroup/jiang-zhuofan.jpg' | relative_url }}" alt="蒋卓凡" style="width: 100%; max-width: 280px; border-radius: 0.5rem;">
     <h3>蒋卓凡</h3>
     <p><strong>硕士研究生（25级）</strong><br>进组时间：2025.07</p>
-    <ul><li>2025.09～至今：南京邮电大学，硕士研究生</li><li>2021.09～2025.07：苏州科技大学，本科</li></ul>
   </article>
   <article>
-    <img src="{{ '/assets/img/qymgroup/zhou-zhiyuan.jpg' | relative_url }}" alt="周志远" style="width: 100%; max-width: 280px; border-radius: 0.5rem;">
     <h3>周志远</h3>
     <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <ul><li>2026.09～至今：南京邮电大学，硕士研究生</li><li>2022.09～2026.07：平顶山学院，本科</li></ul>
   </article>
   <article>
-    <img src="{{ '/assets/img/qymgroup/ye-haowei.jpg' | relative_url }}" alt="叶浩炜" style="width: 100%; max-width: 280px; border-radius: 0.5rem;">
     <h3>叶浩炜</h3>
     <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <ul><li>2026.09～至今：南京邮电大学，硕士研究生</li><li>2022.09～2026.07：厦门理工学院，本科</li></ul>
   </article>
   <article>
-    <img src="{{ '/assets/img/qymgroup/zhang-xinyu.jpg' | relative_url }}" alt="张欣雨" style="width: 100%; max-width: 280px; border-radius: 0.5rem;">
     <h3>张欣雨</h3>
     <p><strong>硕士研究生（26级）</strong><br>进组时间：2026.07</p>
-    <ul><li>2026.09～至今：南京邮电大学，硕士研究生</li><li>2022.09～2026.07：南邮通达学院，本科</li></ul>
   </article>
 </div>
 

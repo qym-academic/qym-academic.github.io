@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-<img src="{{ '/assets/img/qymgroup/research-banner.jpg' | relative_url }}" alt="亚波长电磁学研究示意图" style="width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+<img src="{{ '/assets/img/qymgroup/research-banner.jpg' | relative_url }}" alt="亚波长电磁学研究示意图" style="display: block; clear: both; width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
 
 ## 课题组简介
 

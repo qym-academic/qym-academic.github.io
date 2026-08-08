@@ -106,9 +106,3 @@ latest_posts:
 - 研究生国家奖学金（2017 & 2020）
 - 东南大学优秀毕业生（2022）
 - 合肥工业大学优秀毕业生（2018）
-
-## 访问统计
-
-点击世界地图可查看访问次数和国家/地区统计，数据从本地图启用后开始记录。
-
-<a href="https://smallcounter.com/vmap/1786167557/" target="_blank" rel="noopener noreferrer" aria-label="查看世界访客地图、访问次数和国家地区统计"><img src="https://smallcounter.com/map/view.php?type=180&id=1786167557" alt="世界访客地图和访问次数统计" loading="eager" style="max-width: 100%; height: auto;"></a>

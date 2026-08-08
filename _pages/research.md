@@ -19,9 +19,9 @@ description: 亚波长电磁学课题组的主要研究方向
 
 **代表论文**
 
-- “Low-absorption dual-chirality metasurfaces for polarization-frequency multiplexed wavefront manipulation.” _Chemical Physics Letters_, **885**, 142612 (2026).
-- “Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection-Transmission Reconfigurable Digital Coding Metasurface.” _Advanced Optical Materials_, **10**, 2102657 (2022).
-- “Transmission–Reflection Controls and Polarization Controls of Electromagnetic Holograms by a Reconfigurable Anisotropic Digital Coding Metasurface.” _Advanced Optical Materials_, **8**, 2001065 (2020).
+- “Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings.” _Laser & Photonics Reviews_, e71438 (2026). **第一作者、通讯作者**
+- “Tunable Dual-Band Perfect Metamaterial Absorber Based on a Graphene-SiC Hybrid System by Multiple Resonance Modes.” _Journal of Physics D: Applied Physics_, **52**, 015104 (2019). **第一作者；ESI、IOP 高被引论文**
+- “Wide-Angle Ultrabroadband Absorption in Black Phosphorus/Dielectric Multilayer Anisotropic Metamaterials.” _Journal of Optics_, **26**, 065101 (2024). **第一作者**
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
@@ -31,9 +31,9 @@ description: 亚波长电磁学课题组的主要研究方向
 
 **代表论文**
 
-- “Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons.” _Optical Materials Express_, **16**, 1470 (2026).
-- “Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal.” _Applied Optics_, **65**, 4150 (2026).
-- “Thermally-Electrically Tunable Graphene-Based Guided-Mode Resonant Perfect Absorber.” _IEEE Photonics Technology Letters_, **35**, 175 (2023).
+- “Tale of Two Resonances: Waveguide–Plasmon Coupling and High Q-Factor Engineering on the Nanoscale.” _ACS Photonics_, **10**, 2 (2023). **共同第一作者；Front Cover**
+- “Strong Coupling of Exciton and Guided Mode in Perovskite Film with High Fabrication-Tolerant Scheme.” _Optics & Laser Technology_, **155**, 108437 (2022). **通讯作者**
+- “Manipulating the Light-Matter Interaction in a Topological Photonic Crystal Heterostructure.” _Optics Express_, **28**, 34904 (2020). **第一作者**
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
@@ -43,9 +43,9 @@ description: 亚波长电磁学课题组的主要研究方向
 
 **代表论文**
 
-- “Tunable small-angle nonreciprocal radiation and broadband absorption in a GST–Weyl semimetal resonant structure.” _Applied Physics Letters_, **128**, 082202 (2026).
-- “Near-Perfect Nonreciprocal Radiation with a 0.3 T Magnetic Field for near Normal Incidence.” _Applied Thermal Engineering_, **278**, 127243 (2025).
-- “Dynamic Modulation of Nonreciprocal Absorption in a Graphene–InAs Hybrid Structure under Low Magnetic Field and Small Incident Angles.” _Optics Letters_, **50**, 1552 (2025).
+- “The Enhancement of Nonreciprocal Radiation for Light near to Normal Incidence with Double-Layer Grating.” _Advanced Composites and Hybrid Materials_, **6**, 87 (2023). **通讯作者**
+- “Nonreciprocal Thermal Emitter for near Perpendicular Incident Light with Cascade Grating Involving Weyl Semimetal.” _Materials Today Physics_, **32**, 101025 (2023). **通讯作者**
+- “The Enhanced Nonreciprocal Radiation in a Grating Structure Containing a Weyl Semimetal Film under Conical Incidence.” _International Communications in Heat and Mass Transfer_, **151**, 107254 (2024). **通讯作者；ESI 高被引论文**
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
@@ -55,6 +55,6 @@ description: 亚波长电磁学课题组的主要研究方向
 
 **代表论文**
 
-- “Manipulating the Interaction between Propagating Surface Plasmons and Localized Magnetic Polaritons in a Borophene-Based Hybrid System.” _Physical Review A_, **109**, 013504 (2024).
-- “Strong Coupling of Excitons in Patterned Few-Layer WS₂ with Guided Mode and Bound State in the Continuum.” _Physical Chemistry Chemical Physics_, **24**, 23382 (2022).
-- “Ultra-Narrowband Absorption Enhancement in Monolayer Transition-Metal Dichalcogenides with Simple Guided-Mode Resonance Filters.” _Journal of Applied Physics_, **125**, 213108 (2019).
+- “Investigation of Strong Multimode Interaction in a Graphene-Based Hybrid Coupled Plasmonic System.” _Carbon_, **145**, 596 (2019). **第一作者**
+- “Manipulating the Interaction between Propagating Surface Plasmons and Localized Magnetic Polaritons in a Borophene-Based Hybrid System.” _Physical Review A_, **109**, 013504 (2024). **第一作者、通讯作者**
+- “Strong Coupling of Excitons in Patterned Few-Layer WS₂ with Guided Mode and Bound State in the Continuum.” _Physical Chemistry Chemical Physics_, **24**, 23382 (2022). **通讯作者**

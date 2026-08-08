@@ -21,10 +21,10 @@ description: 期刊论文、会议论文与授权专利
   .publication-profile-links {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     gap: 0.35rem;
     margin: 1rem 0 1.5rem;
-    text-align: center;
+    text-align: left;
   }
 
   .publication-profile-links a {

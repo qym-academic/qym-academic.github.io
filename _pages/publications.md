@@ -18,6 +18,21 @@ description: 期刊论文、会议论文与授权专利
     text-indent: -1.34rem;
   }
 
+  .publication-profile-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 1rem 0 1.5rem;
+    text-align: center;
+  }
+
+  .publication-profile-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+  }
+
   article em {
     font-weight: 700;
   }
@@ -35,6 +50,11 @@ description: 期刊论文、会议论文与授权专利
     color: #fbbf24;
   }
 </style>
+
+<div class="publication-profile-links">
+  <a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a>
+  <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
+</div>
 
 作者标记：`*` 表示通讯作者，`#` 表示共同第一作者。
 

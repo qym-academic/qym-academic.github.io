@@ -17,6 +17,10 @@ description: 期刊论文、会议论文与授权专利
     font-weight: 700;
   }
 
+  article li > strong:not(:first-child) {
+    font-weight: 700;
+  }
+
   .publication-badge {
     color: #b45309;
     font-weight: 700;

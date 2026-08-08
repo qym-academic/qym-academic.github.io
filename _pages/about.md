@@ -54,18 +54,6 @@ latest_posts:
     margin-top: 0;
   }
 
-  .research-projects {
-    display: grid;
-    gap: 0.5rem;
-    padding-left: 2.5rem;
-    margin-bottom: 2rem;
-  }
-
-  .research-projects p {
-    margin: 0;
-    line-height: 1.6;
-  }
-
   @media (max-width: 575.98px) {
     .home-bio-grid {
       grid-template-columns: 1fr;
@@ -100,12 +88,10 @@ latest_posts:
 
 ## 科研项目
 
-<div class="research-projects">
-  <p>[01] 国家自然科学基金青年项目（主持）</p>
-  <p>[02] 江苏省科协青年托举人才项目（主持）</p>
-  <p>[03] 江苏省教育厅面上项目（主持）</p>
-  <p>[04] 国重实验室开放课题（主持）</p>
-</div>
+- 国家自然科学基金青年项目（主持）
+- 江苏省科协青年托举人才项目（主持）
+- 江苏省教育厅面上项目（主持）
+- 国重实验室开放课题（主持）
 
 ## 荣誉与奖励
 

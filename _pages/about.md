@@ -67,6 +67,8 @@ latest_posts:
   }
 </style>
 
+<img src="{{ '/assets/img/qymgroup/research-banner.jpg' | relative_url }}" alt="亚波长电磁学研究示意图" style="display: block; clear: both; width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+
 ## 个人简介
 
 <div class="home-bio-grid">
@@ -84,8 +86,6 @@ latest_posts:
     <p>系《Photonics》《Optics and Photonics Reseach》青年编委，中国光学学会会员、中国物理学会会员、美国光学学会会员、国际光学工程学会会员；长期担任 <em>Light: Science & Applications</em>、<em>Laser & Photonics Reviews</em>、<em>ACS Photonics</em>、<em>Photonics Research</em>、<em>Applied Physics Letters</em>、<em>Optics Letters</em>、<em>Optics Express</em> 等数十本知名期刊审稿人。</p>
   </div>
 </div>
-
-<img src="{{ '/assets/img/qymgroup/research-banner.jpg' | relative_url }}" alt="亚波长电磁学研究示意图" style="display: block; clear: both; width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
 
 ## 科研项目
 

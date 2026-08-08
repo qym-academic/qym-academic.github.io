@@ -7,7 +7,7 @@ nav_order: 3
 description: 亚波长电磁学课题组团队成员
 ---
 
-## 课题组负责人
+<h2 style="color: var(--global-theme-color);">课题组负责人</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
   <img src="{{ '/assets/img/qymgroup/yeming-qing.png' | relative_url }}" alt="庆业明" style="width: min(100%, 180px); height: auto; flex: 0 1 180px; border-radius: 0.5rem;">
@@ -18,7 +18,9 @@ description: 亚波长电磁学课题组团队成员
   </div>
 </div>
 
-## 在读学生
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
+
+<h2 style="color: var(--global-theme-color);">在读学生</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.5rem;">
   <article>
@@ -48,7 +50,9 @@ description: 亚波长电磁学课题组团队成员
   </article>
 </div>
 
-## 学生成果
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
+
+<h2 style="color: var(--global-theme-color);">学生成果</h2>
 
 课题组学生姓名以粗体标示。
 

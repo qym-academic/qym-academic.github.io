@@ -7,6 +7,16 @@ nav_order: 3
 description: 亚波长电磁学、微纳光子学、电磁超构器件
 ---
 
+<style>
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+
+  #search-toggle .nav-link i {
+    font-size: 1rem;
+  }
+</style>
+
 <h2 style="color: var(--global-theme-color);">课题组负责人</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">

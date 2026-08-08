@@ -8,6 +8,14 @@ description: 期刊论文、会议论文与授权专利
 ---
 
 <style>
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+
+  #search-toggle .nav-link i {
+    font-size: 1rem;
+  }
+
   article ul > li {
     padding-left: 1.9rem;
     text-indent: -1.9rem;

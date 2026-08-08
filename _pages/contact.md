@@ -7,6 +7,16 @@ nav_order: 5
 description: 亚波长电磁学、微纳光子学、电磁超构器件
 ---
 
+<style>
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+
+  #search-toggle .nav-link i {
+    font-size: 1rem;
+  }
+</style>
+
 ## 欢迎加入
 
 欢迎有志于亚波长功能光电子器件的同学加入！

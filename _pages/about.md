@@ -19,6 +19,14 @@ latest_posts:
 ---
 
 <style>
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+
+  #search-toggle .nav-link i {
+    font-size: 1rem;
+  }
+
   .home-bio-grid {
     display: grid;
     grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
@@ -33,6 +41,11 @@ latest_posts:
     height: auto;
     border-radius: 0.5rem;
     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.16);
+  }
+
+  .home-bio-profile {
+    width: 240px;
+    justify-self: center;
   }
 
   .home-bio-links {

@@ -20,7 +20,7 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 <h2 style="color: var(--global-theme-color);">课题组负责人</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
-  <img src="{{ '/assets/img/qymgroup/yeming-qing.png' | relative_url }}" alt="庆业明" style="width: min(100%, 180px); height: auto; flex: 0 1 180px; border-radius: 0.5rem;">
+  <img src="{{ '/assets/img/qymgroup/yeming-qing.png' | relative_url }}" alt="庆业明" style="width: min(100%, 150px); height: auto; flex: 0 1 150px; border-radius: 0.5rem;">
   <div style="flex: 1 1 320px;">
     <h3 style="margin-top: 0;">庆业明</h3>
     <p><strong>副教授、硕士生导师</strong></p>

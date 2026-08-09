@@ -19,6 +19,8 @@ description: 期刊论文、会议论文与授权专利
   article ul > li {
     padding-left: 1.9rem;
     text-indent: -1.9rem;
+    text-align: justify;
+    text-justify: inter-ideograph;
   }
 
   article h2#专利 + ul > li {

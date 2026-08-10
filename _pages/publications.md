@@ -72,7 +72,7 @@ description: 期刊论文、会议论文与授权专利
 
 ### 2026
 
-- **[58]** <strong>Qing Y. M.*</strong>; Shen Y.; Murai S.; Tanaka K.; Okamoto K.; Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings with Broken Lateral Mirror Symmetry. _Nanophotonics_, 2026, 15, e70244. [论文链接](https://doi.org/10.1002/nap2.70244)
+- **[58]** <strong>Qing Y. M.*</strong>; Shen Y.; Murai S.; Tanaka K.; Okamoto K.; Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings with Broken Lateral Mirror Symmetry. _Nanophotonics_, 2026, 15, e70244. <span class="publication-badge">(Front Cover)</span> [论文链接](https://doi.org/10.1002/nap2.70244)
 - **[57]** <strong>Qing Y. M.*</strong>; Shen Y.; Wu J.; Murai S.; Dong Z.; Okamoto K.; Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings. _Laser & Photonics Reviews_, 2026, e71438. <span class="publication-badge">(Front Cover)</span> [论文链接](https://onlinelibrary.wiley.com/doi/10.1002/lpor.71438)
 - **[56]** Yang Z.; Pei G.; Zhang J.; Chen B.; <strong>Qing Y. M.</strong>; Yang K.; Zhu D.; Li B.; Wang Z.; A Nile Red-Assisted Colorimetric and SERS Dual-Mode Strategy for the Rapid and Highly Sensitive Detection of Nanoplastics. _Analytica Chimica Acta_, 2026, 1417, 345826. [论文链接](https://www.sciencedirect.com/science/article/pii/S0003267026007762)
 - **[55]** Gao J.; <strong>Qing Y. M.*</strong>; Ren Y.; Jiang Z.; Wu J.; Shen Y.; Murai S.; Okamoto K.; Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons. _Optical Materials Express_, 2026, 16, 5, 1470–1479. <span class="publication-badge">(Invited Paper)</span> [论文链接](https://doi.org/10.1364/OME.599518)

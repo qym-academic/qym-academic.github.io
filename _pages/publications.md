@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 成果及论文
+title: 成果
 permalink: /publications/
 nav: true
 nav_order: 4
@@ -79,11 +79,11 @@ description: 期刊论文、会议论文与授权专利
 - **[54]** Jiang Z.; <strong>Qing Y. M.*</strong>; Gou Y.; Gao J.; Wu J.; Shen Y.; Murai S.; Okamoto K.; Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal. _Applied Optics_, 2026, 65, 12, 4150–4155. [论文链接](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-12-4150)
 - **[53]** <strong>Qing Y. M.*</strong>; Gou Y.; Wu J.; Ren Y.; Liu J.; Yang Z.; Murai S.; Okamoto K.; Tunable small-angle nonreciprocal radiation and broadband absorption in a GST–Weyl semimetal resonant structure. _Applied Physics Letters_, 2026, 128, 082202. [论文链接](https://pubs.aip.org/aip/apl/article-abstract/128/8/082202/3380890/Tunable-small-angle-nonreciprocal-radiation-and)
 - **[52]** Yang Z.; <strong>Qing Y. M.</strong>; Zhu K.; Yang K.; Zong S.; Wang Z.; One-step encapsulation of CsPbBr3 nanocrystals with customized polyethylene glycol for single-molecule localization microscopy imaging of cellular microstructures. _Optical Materials_, 2026, 174, 117987. [论文链接](https://www.sciencedirect.com/science/article/pii/S0925346726001461)
-- **[51]** Gou Y.; Zheng S.; <strong>Qing Y. M.*</strong>; Wang Z. X.; Wu L. W.; Liu L. L.\*; Ma H. F.\*; Low-absorption dual-chirality metasurfaces for polarization-frequency multiplexed wavefront manipulation. _Chemical Physics Letters_, 2026, 885, 142612. [论文链接](https://www.sciencedirect.com/science/article/pii/S0009261425007559)
+- **[51]** Gou Y.; Zheng S.; <strong>Qing Y. M.*</strong>; Wang Z. X.; Wu L. W.; Liu L. L.; Ma H. F.; Low-absorption dual-chirality metasurfaces for polarization-frequency multiplexed wavefront manipulation. _Chemical Physics Letters_, 2026, 885, 142612. [论文链接](https://www.sciencedirect.com/science/article/pii/S0009261425007559)
 
 ### 2025
 
-- **[50]** Ren Y.; Gao J.; Jiang Z.; Yang Z.; Liu J.; Gou Y.\*; <strong>Qing Y. M.*</strong>; Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial. _Photonics_, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
+- **[50]** Ren Y.; Gao J.; Jiang Z.; Yang Z.; Liu J.; Gou Y.; <strong>Qing Y. M.*</strong>; Broadband Absorption in Mid-Infrared via Trapezoidal Gratings Made of Anisotropic Metamaterial. _Photonics_, 2025, 12, 932. [论文链接](https://www.mdpi.com/2304-6732/12/9/932)
 - **[49]** Liu J.#; <strong>Qing Y. M.#</strong>; Wu J.#; Tian J.; Feng C.; Zhou X.; Ma Y.; Li B.; Lu Y.; Li Q.; Responsive Cellulose Nanocrystal-based Liquid Crystals: From Structural Color Manipulation to Applications. _Responsive Materials_, 2025, 3, e70020. [论文链接](https://onlinelibrary.wiley.com/doi/full/10.1002/rpm2.70020)
 - **[48]** Wu J.; <strong>Qing Y. M.*</strong>; Mid-infrared Broadband Nonreciprocal Thermal Radiation Involving Patterned Weyl Semimetal. _Applied Physics Letters_, 2025, 126, 252203. [论文链接](https://pubs.aip.org/aip/apl/article-abstract/126/25/252203/3350902/Mid-infrared-broadband-nonreciprocal-thermal)
 - **[47]** Wu J.; <strong>Qing Y. M.*</strong>; Near-Perfect Nonreciprocal Radiation with a 0.3 T Magnetic Field for near Normal Incidence. _Applied Thermal Engineering_, 2025, 278, 127243. [论文链接](https://www.sciencedirect.com/science/article/pii/S1359431125018356)

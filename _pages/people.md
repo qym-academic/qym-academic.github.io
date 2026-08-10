@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 团队成员
+title: 成员
 permalink: /people/
 nav: true
 nav_order: 3

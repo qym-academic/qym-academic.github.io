@@ -117,7 +117,7 @@ latest_posts:
   </div>
   <div class="home-bio-copy">
     <p>庆业明，副教授、硕士生导师，日本学振研究员，江苏省科协青托人才，南京邮电大学创新拔尖人才，博士毕业于东南大学（毫米波国重实验室）；主要从事可调超构器件、亚波长电磁学、微纳光学领域的研究工作。</p>
-    <p>迄今，以一作或通讯发表 50 余篇学术论文，含 <em>Advanced Composites and Hybrid Materials</em>、<em>Laser & Photonics Reviews</em>、<em>Carbon</em>、<em>Materials Today Physics</em>、<em>ACS Photonics</em>、<em>Nanophotonics</em>、<em>International Communications in Heat and Mass Transfer</em>、<em>Applied Thermal Engineering</em>、<em>Optics Letters</em>、<em>Optics Express</em>、<em>Applied Physics Letters</em>、<em>Physical Review A</em> 等国际知名期刊；研究成果被引 1,700 余次，H-index 为 24，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。</p>
+    <p>迄今，以一作或通讯发表 50 余篇学术论文，含 <em>Advanced Composites and Hybrid Materials</em>、<em>Laser & Photonics Reviews</em>、<em>Carbon</em>、<em>Materials Today Physics</em>、<em>ACS Photonics</em>、<em>Nanophotonics</em>、<em>International Communications in Heat and Mass Transfer</em>、<em>Applied Thermal Engineering</em>、<em>Optics Letters</em>、<em>Optics Express</em>、<em>Applied Physics Letters</em>、<em>Physical Review A</em> 等国际知名期刊；研究成果被引 {{ site.data.citations.metadata.citedby_display | default: "1,800" }} 次，H-index 为 {{ site.data.citations.metadata.hindex | default: 25 }}，且多篇论文被选为封面论文、期刊亮点论文和高被引论文。</p>
     <p>系《Photonics》《Optics and Photonics Reseach》青年编委，中国光学学会会员、中国物理学会会员、美国光学学会会员、国际光学工程学会会员；长期担任 <em>Light: Science & Applications</em>、<em>Laser & Photonics Reviews</em>、<em>ACS Photonics</em>、<em>Photonics Research</em>、<em>Applied Physics Letters</em>、<em>Optics Letters</em>、<em>Optics Express</em> 等数十本知名期刊审稿人。</p>
   </div>
 </div>

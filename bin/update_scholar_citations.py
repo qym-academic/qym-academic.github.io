@@ -83,6 +83,21 @@ def get_scholar_citations() -> None:
         print(f"No publications found in author data for user ID '{SCHOLAR_USER_ID}'.")
         sys.exit(1)
 
+    try:
+        citedby = int(author_data["citedby"])
+        hindex = int(author_data["hindex"])
+    except (KeyError, TypeError, ValueError) as e:
+        print(f"Could not read citation metrics from Google Scholar: {e}")
+        sys.exit(1)
+
+    citation_data["metadata"].update(
+        {
+            "citedby": citedby,
+            "citedby_display": f"{citedby:,}",
+            "hindex": hindex,
+        }
+    )
+
     for pub in author_data["publications"]:
         try:
             pub_id = pub.get("pub_id") or pub.get("author_pub_id")

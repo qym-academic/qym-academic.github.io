@@ -7,6 +7,10 @@ on:
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
+permissions:
+  actions: write
+  contents: write
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
@@ -14,9 +18,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-      #        with:
-      #          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -94,8 +95,11 @@ jobs:
       - name: Commit and push if changed
         run: |
           git add _data/citations.yml
-          git diff --staged --quiet || (
+          if git diff --staged --quiet; then
+            echo "ℹ️ No citation changes to publish."
+          else
             echo "📤 Committing and pushing changes..."
             git commit -m "Update Google Scholar citations"
             git push
-          )
+            gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
+          fi

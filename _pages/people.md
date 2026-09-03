@@ -74,4 +74,4 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 
 <h2 style="color: var(--global-theme-color);">往届学生</h2>
 
-黄泽涛（本科）
+黄泽涛（24届本科）

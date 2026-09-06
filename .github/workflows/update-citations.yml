@@ -11,6 +11,13 @@ permissions:
   actions: write
   contents: write
 
+concurrency:
+  group: scholar-update
+  cancel-in-progress: false
+
+env:
+  GH_TOKEN: ${{ github.token }}
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
@@ -92,14 +99,29 @@ jobs:
           git config --local user.name "GitHub Actions"
           echo "🔧 Git configured."
 
+      - name: Test publication synchronization
+        run: python -m unittest discover -s test -p 'test_scholar_publications.py'
+
+      - name: Synchronize journal and conference publications
+        id: publications
+        continue-on-error: true
+        run: timeout 600 python bin/update_scholar_publications.py
+
       - name: Commit and push if changed
         run: |
-          git add _data/citations.yml
+          git add _data/citations.yml _pages/publications.md
           if git diff --staged --quiet; then
             echo "ℹ️ No citation changes to publish."
           else
             echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
+            git commit -m "Update Google Scholar citations and publications"
+            git pull --rebase
             git push
             gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
           fi
+
+      - name: Report incomplete publication fetch
+        if: steps.publications.outcome == 'failure'
+        run: |
+          echo "Scholar fetch did not complete; the previous publication list was preserved." >> "$GITHUB_STEP_SUMMARY"
+          exit 1

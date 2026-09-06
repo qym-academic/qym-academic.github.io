@@ -66,7 +66,7 @@ description: 期刊论文、会议论文与授权专利
 
   .publication-covers a {
     display: block;
-    width: 180px;
+    width: fit-content;
     max-width: 100%;
     box-sizing: border-box;
     border: 1px solid #b8b8b8;
@@ -74,8 +74,8 @@ description: 期刊论文、会议论文与授权专利
 
   .publication-covers img {
     display: block;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 240px;
   }
 
   html[data-theme="dark"] .publication-badge {

@@ -38,7 +38,13 @@ class PublicationSyncTest(unittest.TestCase):
         kind, year, line = sync.entry(self.pub)
         self.assertEqual(kind, '会议论文')
         section = sync.merge(self.page, {kind: [(year, line)]}).split('## 会议论文')[1]
-        self.assertIn('### 2027', section)
+        self.assertNotIn('### ', section)
+        self.assertIn(line, section)
+
+    def test_no_empty_future_year(self):
+        updated = sync.merge(self.page, {})
+        self.assertNotIn('### 2027', updated)
+        self.assertNotIn('### ', sync.sections(updated)['会议论文'][2])
 
     def test_no_invented_correspondence(self):
         line = sync.entry(self.pub)[2]

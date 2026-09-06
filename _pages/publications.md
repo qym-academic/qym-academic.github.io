@@ -75,9 +75,7 @@ description: 期刊论文、会议论文与授权专利
   .publication-covers img {
     display: block;
     width: 100%;
-    aspect-ratio: 3 / 4;
-    object-fit: contain;
-    object-position: top center;
+    height: auto;
   }
 
   html[data-theme="dark"] .publication-badge {

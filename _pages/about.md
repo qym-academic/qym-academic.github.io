@@ -101,7 +101,7 @@ latest_posts:
   }
 </style>
 
-<img src="{{ '/assets/img/qymgroup/research-banner-20260906.png' | relative_url }}" alt="亚波长电磁学研究示意图" style="display: block; clear: both; width: 100%; height: auto; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+<img src="{{ '/assets/img/qymgroup/research-banner-20260906.png' | relative_url }}" alt="亚波长电磁学研究示意图" style="display: block; clear: both; width: 100%; aspect-ratio: 3.45 / 1; object-fit: cover; object-position: center 55%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
 
 ## 个人简介
 

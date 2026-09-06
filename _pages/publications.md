@@ -56,6 +56,28 @@ description: 期刊论文、会议论文与授权专利
     font-weight: 700;
   }
 
+  .publication-covers {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin: 2.5rem 0 3rem;
+  }
+
+  .publication-covers a {
+    display: block;
+    width: 180px;
+    max-width: 100%;
+  }
+
+  .publication-covers img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: contain;
+    object-position: top center;
+  }
+
   html[data-theme="dark"] .publication-badge {
     color: #fbbf24;
   }
@@ -64,6 +86,11 @@ description: 期刊论文、会议论文与授权专利
 <div class="publication-profile-links">
   <a href="https://scholar.google.com/citations?user=1UvIUrEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a>
   <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
+</div>
+
+<div class="publication-covers" aria-label="期刊封面展示">
+  <a href="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" alt="Nanophotonics 2026 年封面" loading="lazy"></a>
+  <a href="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" alt="ACS Photonics 2023 年 1 月封面" loading="lazy"></a>
 </div>
 
 作者标记：`*` 表示通讯作者，`#` 表示共同第一作者。

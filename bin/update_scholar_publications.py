@@ -123,11 +123,11 @@ def merge(page, additions):
         output, previous = [], None
         for year, number, content in sorted(rows, key=lambda r: (r[0], r[1]), reverse=True):
             group = '2017–2021' if kind == '期刊论文' and 2017 <= year <= 2021 else str(year)
-            if group != previous:
+            if kind == '期刊论文' and group != previous:
                 output.append('\n### ' + group + '\n')
                 previous = group
             output.append('- **[' + str(number).zfill(2) + ']** ' + content)
-        page = page[:start] + '\n'.join(output) + '\n\n' + page[end:]
+        page = page[:start] + '\n' + '\n'.join(output).lstrip('\n') + '\n\n' + page[end:]
     return page
 
 

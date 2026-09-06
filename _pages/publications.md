@@ -150,34 +150,14 @@ description: 期刊论文、会议论文与授权专利
 
 ## 会议论文
 
-### 2026
-
 - **[09]** <strong>Qing Y. M.</strong>; Murai S.; Okamoto K.; Active Control of Nonreciprocal Thermal Radiation via Hybrid Metastructures. _Photonics & Electromagnetics Research Symposium (PIERS 2026)_, Suzhou, China. (2026.07.27–2026.07.31) [会议链接](https://suzhou2026.piers.org/session.html?sid=S187)
 - **[08]** <strong>Qing Y. M.</strong>; Wu J.; Murai S.; Okamoto K.; Tunable Nonreciprocal Response in Magneto-Optical Resonance Structures. _2026 6th International Conference on Laser, Optics and Optoelectronic Technology (LOPET 2026)_, Zibo, China. (2026.05.15–2026.05.17) [论文链接](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14314/143141F/Highly-efficient-nonreciprocal-thermal-emission-at-near-normal-incidence-driven/10.1117/12.3122548.short)
 - **[07]** <strong>Qing Y. M.</strong>; Murai S.; Okamoto K.; Tunable Asymmetric Absorption in Nonreciprocal Resonant Structures. _Optics & Photonics International Congress (OPIC 2026)_, Yokohama, Japan. (2026.04.20–2026.04.24) [会议链接](https://pub.confit.atlas.jp/en/event/opic2026/presentation/META7-02)
-
-### 2025
-
 - **[06]** <strong>Qing Y. M.</strong>; Gao J.; Jiang Z.; Dynamically Tunable Nonreciprocal Radiation in Hybrid Metastructures. _Photonics & Electromagnetics Research Symposium (PIERS 2025)_, Chiba, Japan. (2025.11.05–2025.11.09) [论文链接](https://ieeexplore.ieee.org/abstract/document/11394682)
-
-### 2024
-
 - **[05]** <strong>Qing Y. M.</strong>; Strong coupling between surface plasmons and magnetic polaritons in a borophene-based hybrid system. _The 14th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META 2024)_, Toyama, Japan. (2024.07.16–2024.07.19) [会议链接](https://metaconferences.org/META24/index.php/META/sessions)
-
-### 2021
-
 - **[04]** <strong>Qing Y. M.</strong>; Ma H. F.; Angle-Insensitive Bifunctional Resonator Based on Periodic Structure. _2020 International Symposium on Antennas and Propagation (ISAP 2020)_, Virtual Conference (Osaka, Japan), pp. 411–412. (2021.01.25–2021.01.28) [论文链接](https://ieeexplore.ieee.org/document/9391240)
-
-### 2020
-
 - **[03]** <strong>Qing Y. M.</strong>; Wu L. W.; Ma H. F.; Tailoring Strong Multimode Interaction in a Graphene-Based Coupled Plasmonic System. _2020 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO 2020)_, Hangzhou, China, pp. 1–4. (2020.12.07–2020.12.09) [论文链接](https://ieeexplore.ieee.org/document/9343385)
-
-### 2018
-
 - **[02]** Hu J.; Ren Y.; <strong>Qing Y. M.</strong>; Yao E.; Wu X.; Li H.; Liu W.; Xie W.; Dual-Band Total Absorption via Guided-Mode Resonance in a Monolayer MoS2 Covered Dielectric Grating Structure. _Nanophotonics and Micro/Nano Optics IV, SPIE/COS Photonics Asia 2018_, Proceedings of SPIE 10823, 108230T, Beijing, China. (2018.10.11–2018.10.13) [论文链接](https://doi.org/10.1117/12.2500992)
-
-### 2016
-
 - **[01]** Hu J.; <strong>Qing Y. M.</strong>; Wen Z.; Wu X.; Ren R.; Gao W.; Li D.; Gao F.; High-Performance One-Way Transmission Using Pyramid-Shaped Silicon Grating-Coupled Hyperbolic Metamaterial. _Nanophotonics and Micro/Nano Optics III, SPIE/COS Photonics Asia 2016_, Proceedings of SPIE 10027, 100270K, Beijing, China. (2016.10.12–2016.10.14) [论文链接](https://doi.org/10.1117/12.2246253)
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">

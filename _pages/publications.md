@@ -28,6 +28,10 @@ description: 期刊论文、会议论文与授权专利
     text-indent: -1.34rem;
   }
 
+  article h3 {
+    text-align: center;
+  }
+
   .publication-profile-links {
     display: flex;
     flex-direction: column;
@@ -75,7 +79,7 @@ description: 期刊论文、会议论文与授权专利
   .publication-covers img {
     display: block;
     width: auto;
-    height: 240px;
+    height: 120px;
   }
 
   html[data-theme="dark"] .publication-badge {

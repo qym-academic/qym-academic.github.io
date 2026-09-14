@@ -137,7 +137,6 @@ description: 期刊论文、会议论文与授权专利
 
 ### 2023
 
-- **[61]** Wu&#42; J.; <strong>Qing Y. M.</strong>; Tunable near-perfect nonreciprocal radiation with Weyl semimetal and graphene. _Physical Chemistry Chemical Physics_, 2023, 25, 9586-9591. [论文链接](https://pubs.rsc.org/cp/article-abstract/25/13/9586/763280) <!-- scholar:1UvIUrEAAAAJ:e5wmG9Sq2KIC -->
 - **[35]** Wu J.; <strong>Qing Y. M.*</strong>; Strong Dual-Channel Nonreciprocal Radiation with Guided Mode Resonances. _Journal of Chemical Physics_, 2023, 159, 22, 224701. [论文链接](https://pubs.aip.org/aip/jcp/article-abstract/159/22/224701/2928643/Strong-dual-channel-nonreciprocal-radiation-with)
 - **[34]** Wu J.; <strong>Qing Y. M.*</strong>; Near-Perfect Nonreciprocal Radiation for Extremely Small Incident Angle Based on Cascaded Grating Structure. _International Journal of Thermal Sciences_, 2023, 190, 108340. [论文链接](https://www.sciencedirect.com/science/article/pii/S1290072923002016)
 - **[33]** Wu J.; <strong>Qing Y. M.*</strong>; Strong Multi-Band Nonreciprocal Radiation with Fibonacci Multilayer Involving Weyl Semimetal. _Results in Physics_, 2023, 51, 106642. [论文链接](https://www.sciencedirect.com/science/article/pii/S2211379723004357)

@@ -31,6 +31,12 @@ def known(publication, page):
     title = normalized(bib.get('title', ''))
     if len(title) > 20 and title in normalized(page):
         return True
+    # Scholar titles may omit English articles present in curated citations.
+    def without_articles(value):
+        return normalized(re.sub(r'\b(?:a|an|the)\b', '', value, flags=re.I))
+    title_without_articles = without_articles(bib.get('title', ''))
+    if len(title_without_articles) > 20 and title_without_articles in without_articles(page):
+        return True
     url = publication.get('pub_url', '')
     doi = re.search(r'10\.\d{4,9}/[^\s?#]+', url)
     if doi and doi.group().casefold().rstrip('/') in page.casefold():
@@ -48,7 +54,8 @@ def escaped(value):
 
 
 def author_name(value):
-    parts = value.strip().replace('-', ' ').split()
+    # Scholar author markers are not reliably attributed; do not import them.
+    parts = re.sub(r'[*#†‡]', '', value).strip().replace('-', ' ').split()
     if len(parts) < 2:
         raise ValueError('Incomplete author name')
     surname = parts[-1]

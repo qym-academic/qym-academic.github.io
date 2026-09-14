@@ -47,6 +47,8 @@ class PublicationSyncTest(unittest.TestCase):
         self.assertNotIn('### ', sync.sections(updated)['会议论文'][2])
 
     def test_no_invented_correspondence(self):
+        self.assertEqual(sync.author_name('Jun Wu*'), 'Wu J.')
+        self.assertTrue(sync.known({'bib': {'title': 'Tunable near-perfect nonreciprocal radiation with Weyl semimetal and graphene'}}, self.page))
         line = sync.entry(self.pub)[2]
         self.assertIn('<strong>Qing Y. M.</strong>', line)
         self.assertNotIn('M.*', line)

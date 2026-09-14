@@ -37,6 +37,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Verify Scholar dependency compatibility
+        run: |
+          python -m pip check
+          python -c "from bibtexparser.bibdatabase import BibDatabase; from scholarly import scholarly; print('Scholar imports OK')"
+
       - name: Save current citations.yml hash
         id: before
         run: |

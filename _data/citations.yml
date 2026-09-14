@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1804
-  citedby_display: 1,804
+  citedby: 1820
+  citedby_display: 1,820
   hindex: 25
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-14'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 21
@@ -17,7 +17,7 @@ papers:
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
-    citations: 12
+    citations: 13
     title: Near-perfect nonreciprocal radiation with a 0.3 T magnetic field for near normal incidence
     year: '2025'
   1UvIUrEAAAAJ:3s1wT3WcHBgC:
@@ -41,7 +41,7 @@ papers:
     title: 'Strong coupling in two-dimensional materials-based nanostructures: a review'
     year: '2022'
   1UvIUrEAAAAJ:70eg2SAEIzsC:
-    citations: 20
+    citations: 21
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
@@ -49,7 +49,7 @@ papers:
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
-    citations: 6
+    citations: 7
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
   1UvIUrEAAAAJ:GnPB-g6toBAC:
@@ -57,7 +57,7 @@ papers:
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
     year: '2024'
   1UvIUrEAAAAJ:HDshCWvjkbEC:
-    citations: 86
+    citations: 88
     title: Wide-angle and broadband nonreciprocal thermal emitter with cascaded dielectric and Weyl semimetal grating structure
     year: '2023'
   1UvIUrEAAAAJ:HoB7MX3m0LUC:
@@ -69,15 +69,15 @@ papers:
     title: Strong coupling of excitons in patterned few-layer WS2 with guided mode and bound state in the continuum
     year: '2022'
   1UvIUrEAAAAJ:IjCSPb-OGe4C:
-    citations: 143
+    citations: 145
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
-    citations: 35
+    citations: 36
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 27
+    citations: 28
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
@@ -85,7 +85,7 @@ papers:
     title: Manipulating the light-matter interaction in a topological photonic crystal heterostructure
     year: '2020'
   1UvIUrEAAAAJ:LkGwnXOMwfcC:
-    citations: 26
+    citations: 27
     title: Ultra-narrowband absorption enhancement in monolayer transition-metal dichalcogenides with simple guided-mode resonance filters
     year: '2019'
   1UvIUrEAAAAJ:M05iB0D1s5AC:
@@ -105,7 +105,7 @@ papers:
     title: Strong coupling between excitons and guided modes in WS2-based nanostructures
     year: '2020'
   1UvIUrEAAAAJ:NMxIlDl6LWMC:
-    citations: 16
+    citations: 17
     title: Tunable wide-angle dual-channel nonreciprocal radiation in a hybrid graphene-Weyl semimetal structure
     year: '2024'
   1UvIUrEAAAAJ:O3NaXMp0MMsC:
@@ -137,7 +137,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 128
+    citations: 130
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:
@@ -180,6 +180,10 @@ papers:
     citations: 14
     title: Strong multi-band nonreciprocal radiation with Fibonacci multilayer involving Weyl semimetal
     year: '2023'
+  1UvIUrEAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: Spectrally Tunable Metasurface for Multiband Nonreciprocal Thermal Radiation at Near-Normal Incidence
+    year: '2026'
   1UvIUrEAAAAJ:dfsIfKJdRG4C:
     citations: 0
     title: A dual circularly polarized 2-bit programmable metasurface
@@ -249,11 +253,11 @@ papers:
     title: Strong coupling between magnetic plasmons and surface plasmons in a black phosphorus-spacer-metallic grating hybrid system
     year: '2018'
   1UvIUrEAAAAJ:u5HHmVD_uO8C:
-    citations: 61
+    citations: 62
     title: Tunable dual-band perfect metamaterial absorber based on a graphene-SiC hybrid system by multiple resonance modes
     year: '2019'
   1UvIUrEAAAAJ:u_35RYKgDlwC:
-    citations: 2
+    citations: 3
     title: "Reconfigurable Giant Nonreciprocity at Near\u2010Normal Incidence via Phase\u2010Change Magneto\u2010Optical Metagratings"
     year: '2026'
   1UvIUrEAAAAJ:ufrVoPGSRksC:
@@ -264,7 +268,11 @@ papers:
     citations: 26
     title: Dynamic modulation of dual-band nonreciprocal radiation in a graphene-Weyl semimetal plasmonic structure
     year: '2025'
-  1UvIUrEAAAAJ:zA6iFVUQeVQC:
+  1UvIUrEAAAAJ:yD5IFk8b50cC:
     citations: 0
+    title: Scalable Circularly Polarized Decoupling of Compact Arrays Using Rotation-and Mirror-Symmetric Defected Ground Structures
+    year: '2026'
+  1UvIUrEAAAAJ:zA6iFVUQeVQC:
+    citations: 1
     title: A Nile Red-Assisted Colorimetric and SERS Dual-Mode Strategy for the Rapid and Highly Sensitive Detection of Nanoplastics
     year: '2026'

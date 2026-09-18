@@ -21,6 +21,7 @@ env:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
 
     steps:
       - name: Checkout repository
@@ -57,22 +58,8 @@ jobs:
 
       - name: Run citation update script
         id: run_citation_update
-        shell: bash
-        run: |
-          set +e
-          echo "🚀 Running citation update script (single attempt)..."
-          start_time=$(date)
-          timeout 90 python bin/update_scholar_citations.py
-          status=$?
-          end_time=$(date)
-          if [ $status -eq 0 ]; then
-            echo "✅ Citation update succeeded (started at $start_time, ended at $end_time)."
-            echo "✅ Citation update succeeded." >> $GITHUB_STEP_SUMMARY
-          else
-            echo "❌ Citation update script failed with exit code $status (started at $start_time, ended at $end_time)."
-            echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
-          fi
-          set -e
+        continue-on-error: true
+        run: python bin/run_scholar_update.py bin/update_scholar_citations.py --timeout 180
 
       - name: Save new citations.yml hash
         id: after
@@ -105,12 +92,12 @@ jobs:
           echo "🔧 Git configured."
 
       - name: Test publication synchronization
-        run: python -m unittest discover -s test -p 'test_scholar_publications.py'
+        run: python -m unittest discover -s test -p 'test_scholar*.py'
 
       - name: Synchronize journal and conference publications
         id: publications
         continue-on-error: true
-        run: timeout 600 python bin/update_scholar_publications.py
+        run: python bin/run_scholar_update.py bin/update_scholar_publications.py --timeout 300
 
       - name: Commit and push if changed
         run: |
@@ -125,8 +112,8 @@ jobs:
             gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
           fi
 
-      - name: Report incomplete publication fetch
-        if: steps.publications.outcome == 'failure'
+      - name: Report incomplete Scholar fetch
+        if: steps.publications.outcome == 'failure' || steps.run_citation_update.outcome == 'failure'
         run: |
-          echo "Scholar fetch did not complete; the previous publication list was preserved." >> "$GITHUB_STEP_SUMMARY"
+          echo "One or more Scholar updates failed after bounded attempts. See the diagnostics above; successful independent updates may still be published." >> "$GITHUB_STEP_SUMMARY"
           exit 1

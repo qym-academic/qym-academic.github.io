@@ -94,6 +94,7 @@ description: 期刊论文、会议论文与授权专利
 
 <div class="publication-covers" aria-label="期刊封面展示">
   <a href="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" alt="Nanophotonics 2026 年封面" loading="lazy"></a>
+  <a href="{{ '/assets/img/qymgroup/cover-lpr-2026.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-lpr-2026.jpg' | relative_url }}" alt="Laser &amp; Photonics Reviews 2026 年 9 月封面" loading="lazy"></a>
   <a href="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" alt="ACS Photonics 2023 年 1 月封面" loading="lazy"></a>
 </div>
 

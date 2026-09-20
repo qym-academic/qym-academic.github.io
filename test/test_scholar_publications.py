@@ -41,6 +41,15 @@ class PublicationSyncTest(unittest.TestCase):
         self.assertNotIn('### ', section)
         self.assertIn(line, section)
 
+    def test_journal_volume_issue_format(self):
+        self.pub['bib'].update(volume='16', number='5', pages='1470–1479')
+        self.assertIn('_Example Journal_, 2027, 16 (5), 1470–1479.', sync.entry(self.pub)[2])
+        self.pub['bib'].pop('number')
+        self.assertIn('_Example Journal_, 2027, 16, 1470–1479.', sync.entry(self.pub)[2])
+        self.pub['bib'].pop('volume')
+        self.pub['bib'].pop('pages')
+        self.assertIn('_Example Journal_, 2027.', sync.entry(self.pub)[2])
+
     def test_no_empty_future_year(self):
         updated = sync.merge(self.page, {})
         self.assertNotIn('### 2027', updated)

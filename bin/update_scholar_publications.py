@@ -90,7 +90,14 @@ def entry(publication):
     if parsed.scheme not in ('http', 'https') or not parsed.netloc or any(c in url for c in '\r\n<>"'):
         raise ValueError('Missing safe publication link')
     url = url.replace('(', '%28').replace(')', '%29')
-    fields = [year] + [str(bib[k]) for k in ('volume', 'number', 'pages') if bib.get(k)]
+    if kind == '期刊论文':
+        volume = str(bib.get('volume') or '').strip()
+        issue = str(bib.get('number') or '').strip()
+        if volume and issue:
+            volume += ' (' + issue + ')'
+        fields = [year] + [v for v in (volume, str(bib.get('pages') or '').strip()) if v]
+    else:
+        fields = [year] + [str(bib[k]) for k in ('volume', 'number', 'pages') if bib.get(k)]
     fields = [escaped(v.replace('--', '–')) for v in fields]
     identifier = publication.get('author_pub_id', '')
     if not re.fullmatch(r'[\w:-]+', identifier):

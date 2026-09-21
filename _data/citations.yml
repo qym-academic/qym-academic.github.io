@@ -1,19 +1,19 @@
 metadata:
-  citedby: 1820
-  citedby_display: 1,820
+  citedby: 1831
+  citedby_display: 1,831
   hindex: 25
-  last_updated: '2026-09-14'
+  last_updated: '2026-09-21'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
-    citations: 21
+    citations: 22
     title: 'Tale of Two Resonances: Waveguide-Plasmon Coupling and High Q-Factor Engineering on the Nanoscale'
     year: '2023'
   1UvIUrEAAAAJ:0EnyYjriUFMC:
-    citations: 72
+    citations: 73
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 31
+    citations: 32
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
@@ -57,11 +57,11 @@ papers:
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
     year: '2024'
   1UvIUrEAAAAJ:HDshCWvjkbEC:
-    citations: 88
+    citations: 89
     title: Wide-angle and broadband nonreciprocal thermal emitter with cascaded dielectric and Weyl semimetal grating structure
     year: '2023'
   1UvIUrEAAAAJ:HoB7MX3m0LUC:
-    citations: 6
+    citations: 8
     title: "Tunable small-angle nonreciprocal radiation and broadband absorption in a GST\u2013Weyl semimetal resonant structure"
     year: '2026'
   1UvIUrEAAAAJ:IWHjjKOFINEC:
@@ -69,7 +69,7 @@ papers:
     title: Strong coupling of excitons in patterned few-layer WS2 with guided mode and bound state in the continuum
     year: '2022'
   1UvIUrEAAAAJ:IjCSPb-OGe4C:
-    citations: 145
+    citations: 146
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
@@ -81,7 +81,7 @@ papers:
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
-    citations: 54
+    citations: 55
     title: Manipulating the light-matter interaction in a topological photonic crystal heterostructure
     year: '2020'
   1UvIUrEAAAAJ:LkGwnXOMwfcC:
@@ -113,7 +113,7 @@ papers:
     title: One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate
     year: '2024'
   1UvIUrEAAAAJ:R3hNpaxXUhUC:
-    citations: 70
+    citations: 71
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
@@ -193,7 +193,7 @@ papers:
     title: Tunable near-perfect nonreciprocal radiation with Weyl semimetal and graphene
     year: '2023'
   1UvIUrEAAAAJ:fPk4N6BV_jEC:
-    citations: 0
+    citations: 1
     title: Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings With Broken Lateral Mirror Symmetry
     year: '2026'
   1UvIUrEAAAAJ:hC7cP41nSMkC:
@@ -229,7 +229,7 @@ papers:
     title: Polarization-dependent thermal-tunable graphene-based metamaterial exploiting critical coupling with guided mode resonances
     year: '2023'
   1UvIUrEAAAAJ:maZDTaKrznsC:
-    citations: 41
+    citations: 42
     title: Tunable nonreciprocal radiation for near vertical incident light based on graphene and Weyl semimetal
     year: '2024'
   1UvIUrEAAAAJ:ns9cj8rnVeAC:

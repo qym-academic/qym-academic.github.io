@@ -35,22 +35,27 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
   <article>
     <h3>高家乐</h3>
     <p><strong>硕士研究生（25级）</strong></p>
+    <p>邮箱：1844897397@qq.com</p>
   </article>
   <article>
     <h3>蒋卓凡</h3>
     <p><strong>硕士研究生（25级）</strong></p>
+    <p>邮箱：zfanjiang@126.com</p>
   </article>
   <article>
     <h3>周志远</h3>
     <p><strong>硕士研究生（26级）</strong></p>
+    <p>邮箱：z16650787675@163.com</p>
   </article>
   <article>
     <h3>叶浩炜</h3>
     <p><strong>硕士研究生（26级）</strong></p>
+    <p>邮箱：13225971990@163.com</p>
   </article>
   <article>
     <h3>张欣雨</h3>
     <p><strong>硕士研究生（26级）</strong></p>
+    <p>邮箱：zxyyyouo@163.com</p>
   </article>
 </div>
 

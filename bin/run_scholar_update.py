@@ -18,6 +18,13 @@ def report(message):
             stream.write('- ' + message + '\n')
 
 
+def print_child_output(output):
+    # A Windows scheduled task may use a GBK console even though Scholar is UTF-8.
+    encoding = sys.stdout.encoding or 'utf-8'
+    print(output.encode(encoding, errors='backslashreplace').decode(encoding),
+          end='', flush=True)
+
+
 def response_diagnosis(status, body):
     if status in (403, 429):
         return f'HTTP {status}: access denied or rate limited'
@@ -61,7 +68,7 @@ def run(script, timeout, attempts=2, delay=30):
             result = subprocess.run([sys.executable, '-u', script], capture_output=True,
                                     text=True, encoding='utf-8', errors='replace', timeout=timeout)
             output = result.stdout + result.stderr
-            print(output, end='', flush=True)
+            print_child_output(output)
             status = result.returncode
             retryable = transient(output)
         except subprocess.TimeoutExpired:
@@ -76,8 +83,8 @@ def run(script, timeout, attempts=2, delay=30):
             report(diagnose())
         if not retryable or attempt == attempts:
             if retryable:
-                report(f'{script}: Scholar unavailable after {attempts} attempts; no new data fetched, existing data retained, next schedule will retry')
-                return 0
+                report(f'{script}: Scholar unavailable after {attempts} attempts; no new data fetched, existing data retained')
+                return status if status > 0 else 1
             report(f'{script}: not updated successfully; existing data retained after a program error')
             return status if status > 0 else 1
         report(f'{script}: retrying after {delay}s; no proxy or challenge bypass')

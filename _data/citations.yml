@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1832
-  citedby_display: 1,832
+  citedby: 1836
+  citedby_display: 1,836
   hindex: 25
-  last_updated: '2026-09-23'
+  last_updated: '2026-09-24'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -41,7 +41,7 @@ papers:
     title: 'Strong coupling in two-dimensional materials-based nanostructures: a review'
     year: '2022'
   1UvIUrEAAAAJ:70eg2SAEIzsC:
-    citations: 21
+    citations: 22
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
@@ -57,7 +57,7 @@ papers:
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
     year: '2024'
   1UvIUrEAAAAJ:HDshCWvjkbEC:
-    citations: 89
+    citations: 90
     title: Wide-angle and broadband nonreciprocal thermal emitter with cascaded dielectric and Weyl semimetal grating structure
     year: '2023'
   1UvIUrEAAAAJ:HoB7MX3m0LUC:
@@ -113,7 +113,7 @@ papers:
     title: One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate
     year: '2024'
   1UvIUrEAAAAJ:R3hNpaxXUhUC:
-    citations: 71
+    citations: 72
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
@@ -137,7 +137,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 130
+    citations: 131
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:

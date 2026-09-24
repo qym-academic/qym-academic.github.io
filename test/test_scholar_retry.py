@@ -32,14 +32,26 @@ class ScholarRetryTest(unittest.TestCase):
     @patch.object(retry.time, 'sleep')
     def test_timeouts_stop_at_two(self, sleep, diagnosis, report):
         with patch.object(retry.subprocess, 'run', side_effect=subprocess.TimeoutExpired('example', 10)) as run:
-            self.assertEqual(retry.run('example.py', 10), 124)
+            self.assertEqual(retry.run('example.py', 10), 0)
             self.assertEqual(run.call_count, 2)
+        self.assertTrue(any('no new data fetched' in call.args[0] for call in report.call_args_list))
+
+    @patch.object(retry, 'report')
+    @patch.object(retry, 'diagnose', return_value='HTTP 403')
+    @patch.object(retry.time, 'sleep')
+    def test_blocked_profile_is_deferred(self, sleep, diagnosis, report):
+        blocked = self.result(1, 'Cannot fetch from Google Scholar: challenge page')
+        with patch.object(retry.subprocess, 'run', return_value=blocked) as run:
+            self.assertEqual(retry.run('example.py', 10), 0)
+            self.assertEqual(run.call_count, 2)
+        self.assertTrue(any('existing data retained' in call.args[0] for call in report.call_args_list))
 
     def test_diagnostic_classification(self):
         self.assertIn('rate limited', retry.response_diagnosis(429, ''))
         self.assertIn('challenge', retry.response_diagnosis(200, 'unusual traffic'))
         self.assertIn('accessible', retry.response_diagnosis(200, 'gsc_a_tr'))
         self.assertIn('absent', retry.response_diagnosis(200, 'unexpected page'))
+        self.assertTrue(retry.transient('urllib.error.URLError: getaddrinfo failed'))
 
 
 if __name__ == '__main__':

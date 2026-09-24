@@ -8,6 +8,8 @@ import unicodedata
 from pathlib import Path
 from urllib.parse import urlparse
 
+from scholar_profile import load_profile, publication_details
+
 PAGE = Path('_pages/publications.md')
 HEADINGS = ('期刊论文', '会议论文')
 
@@ -153,12 +155,8 @@ def main():
     additions = {name: [] for name in HEADINGS}
     if not args.normalize_only:
         import yaml
-        from scholarly import scholarly
         user = yaml.safe_load(Path('_data/socials.yml').read_text(encoding='utf-8'))['scholar_userid']
-        scholarly.set_timeout(15)
-        scholarly.set_retries(2)
-        author = scholarly.fill(scholarly.search_author_id(user), sections=['publications'])
-        publications = author.get('publications')
+        publications = load_profile(user).get('publications')
         if not publications:
             raise RuntimeError('Scholar returned no publications; existing page retained')
         report, attempted = [], 0
@@ -172,7 +170,7 @@ def main():
                 break
             attempted += 1
             try:
-                full = scholarly.fill(pub)
+                full = publication_details(pub)
                 if known(full, matched_page):
                     continue
                 kind, year, content = entry(full)
@@ -181,6 +179,10 @@ def main():
                 report.append('Added: ' + full['bib']['title'])
             except Exception as error:
                 report.append('Deferred: ' + str(pub.get('bib', {}).get('title', '')) + ' (' + str(error) + ')')
+                # A blocked detail page will not recover by requesting 19 more.
+                if isinstance(error, (ConnectionError, TimeoutError)) or type(error).__name__ in ('HTTPError', 'URLError'):
+                    report.append('Remaining candidates deferred after a network error.')
+                    break
         for message in report:
             print(message)
         if os.environ.get('GITHUB_STEP_SUMMARY'):

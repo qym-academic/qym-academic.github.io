@@ -1,8 +1,10 @@
 import importlib.util
 import re
+import sys
 import unittest
 from pathlib import Path
 
+sys.path.insert(0, str(Path('bin').resolve()))
 spec = importlib.util.spec_from_file_location('sync', 'bin/update_scholar_publications.py')
 sync = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(sync)

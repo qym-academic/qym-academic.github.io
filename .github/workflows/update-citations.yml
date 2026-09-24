@@ -22,6 +22,8 @@ jobs:
   update-citations:
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    env:
+      SCHOLAR_PROFILE_CACHE: ${{ runner.temp }}/scholar-profile.json
 
     steps:
       - name: Checkout repository
@@ -41,7 +43,7 @@ jobs:
       - name: Verify Scholar dependency compatibility
         run: |
           python -m pip check
-          python -c "from bibtexparser.bibdatabase import BibDatabase; from scholarly import scholarly; print('Scholar imports OK')"
+          python -c "from bs4 import BeautifulSoup; print('Scholar profile parser imports OK')"
 
       - name: Save current citations.yml hash
         id: before
@@ -112,8 +114,8 @@ jobs:
             gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
           fi
 
-      - name: Report incomplete Scholar fetch
+      - name: Report unexpected Scholar update failure
         if: steps.publications.outcome == 'failure' || steps.run_citation_update.outcome == 'failure'
         run: |
-          echo "One or more Scholar updates failed after bounded attempts. See the diagnostics above; successful independent updates may still be published." >> "$GITHUB_STEP_SUMMARY"
+          echo "A parser, dependency, or other non-network error prevented an update. See the diagnostics above; successful independent updates may still be published." >> "$GITHUB_STEP_SUMMARY"
           exit 1

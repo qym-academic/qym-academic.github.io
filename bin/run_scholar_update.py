@@ -46,9 +46,11 @@ def diagnose():
 def transient(output):
     return any(marker in output.lower() for marker in (
         'cannot fetch from google scholar', 'maxtriesexceededexception',
-        'timed out', 'timeout', 'connectionerror', 'connecterror',
-        'connection reset', 'temporary failure in name resolution',
-        'http error 403', 'http error 429', 'http error 502', 'http error 503',
+        'timed out', 'timeout', 'urlerror', 'connectionerror', 'connecterror',
+        'connection reset', 'connection refused', 'network is unreachable',
+        'temporary failure in name resolution', 'getaddrinfo failed',
+        'http error 403', 'http error 429', 'http error 500',
+        'http error 502', 'http error 503', 'http error 504',
     ))
 
 
@@ -73,7 +75,10 @@ def run(script, timeout, attempts=2, delay=30):
         if retryable:
             report(diagnose())
         if not retryable or attempt == attempts:
-            report(f'{script}: not updated successfully; existing data retained on fetch failure')
+            if retryable:
+                report(f'{script}: Scholar unavailable after {attempts} attempts; no new data fetched, existing data retained, next schedule will retry')
+                return 0
+            report(f'{script}: not updated successfully; existing data retained after a program error')
             return status if status > 0 else 1
         report(f'{script}: retrying after {delay}s; no proxy or challenge bypass')
         time.sleep(delay)

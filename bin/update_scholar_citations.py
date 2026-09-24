@@ -4,7 +4,7 @@ import os
 import sys
 import yaml
 from datetime import datetime
-from scholarly import scholarly
+from scholar_profile import load_profile
 
 
 def load_scholar_user_id() -> str:
@@ -42,7 +42,7 @@ def get_scholar_citations() -> None:
     today = datetime.now().strftime("%Y-%m-%d")
     existing_data = {}
 
-    # Check if the output file was already updated today
+    # Keep a copy of the last good data until the new profile is validated.
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r") as f:
@@ -53,9 +53,6 @@ def get_scholar_citations() -> None:
                 and "last_updated" in existing_data["metadata"]
             ):
                 print(f"Last updated on: {existing_data['metadata']['last_updated']}")
-                if existing_data["metadata"]["last_updated"] == today:
-                    print("Citations data is already up-to-date. Skipping fetch.")
-                    return
         except Exception as e:
             print(
                 f"Warning: Could not read existing citation data from {OUTPUT_FILE}: {e}. The file may be missing or corrupted."
@@ -63,11 +60,8 @@ def get_scholar_citations() -> None:
 
     citation_data = {"metadata": {"last_updated": today}, "papers": {}}
 
-    scholarly.set_timeout(15)
-    scholarly.set_retries(3)
     try:
-        author = scholarly.search_author_id(SCHOLAR_USER_ID)
-        author_data = scholarly.fill(author)
+        author_data = load_profile(SCHOLAR_USER_ID)
     except Exception as e:
         print(
             f"Error fetching author data from Google Scholar for user ID '{SCHOLAR_USER_ID}': {e}. Please check your internet connection and Scholar user ID."
@@ -101,7 +95,7 @@ def get_scholar_citations() -> None:
 
     for pub in author_data["publications"]:
         try:
-            pub_id = pub.get("pub_id") or pub.get("author_pub_id")
+            pub_id = pub.get("author_pub_id")
             if not pub_id:
                 print(
                     f"Warning: No ID found for publication: {pub.get('bib', {}).get('title', 'Unknown')}. This publication will be skipped."

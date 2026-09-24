@@ -1,6 +1,4 @@
 nbconvert
 pyyaml
 rendercv[full]
-scholarly==1.7.11
-# scholarly uses the v1 BibDatabase API removed in bibtexparser v2.
-bibtexparser==1.4.3
+beautifulsoup4>=4.12,<5

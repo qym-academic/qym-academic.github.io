@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
-      SCHOLAR_PROFILE_CACHE: ${{ runner.temp }}/scholar-profile.json
+      SCHOLAR_PROFILE_CACHE: /tmp/scholar-profile-${{ github.run_id }}.json
 
     steps:
       - name: Checkout repository

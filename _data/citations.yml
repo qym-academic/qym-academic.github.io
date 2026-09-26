@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1836
-  citedby_display: 1,836
+  citedby: 1838
+  citedby_display: 1,838
   hindex: 25
-  last_updated: '2026-09-24'
+  last_updated: '2026-09-27'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -13,7 +13,7 @@ papers:
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 32
+    citations: 33
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
@@ -109,7 +109,7 @@ papers:
     title: Tunable wide-angle dual-channel nonreciprocal radiation in a hybrid graphene-Weyl semimetal structure
     year: '2024'
   1UvIUrEAAAAJ:O3NaXMp0MMsC:
-    citations: 25
+    citations: 26
     title: One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate
     year: '2024'
   1UvIUrEAAAAJ:R3hNpaxXUhUC:

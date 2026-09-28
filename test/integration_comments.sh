@@ -10,13 +10,7 @@ cleanup() {
 }
 trap cleanup EXIT
 
-cat >"${tmp_override}" <<'YAML'
-giscus:
-  repo: alshedivat/al-folio
-  repo_id: R_kgDOExample
-  category: Comments
-  category_id: DIC_kwDOExample
-YAML
+ruby test/integration_fixture_config.rb "${tmp_override}"
 
 bundle exec jekyll build --config "_config.yml,${tmp_override}" -d "${tmp_site}" >/dev/null
 

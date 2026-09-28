@@ -13,6 +13,9 @@ cleanup() {
 }
 trap cleanup EXIT
 
+fixture_override="${tmp_dir}/fixtures.yml"
+ruby test/integration_fixture_config.rb "${fixture_override}"
+
 build() {
   local name="$1"
   shift
@@ -28,7 +31,7 @@ fail() {
 
 # --- al_rtl -----------------------------------------------------------------
 
-default_site="$(build default)"
+default_site="$(build default --config "_config.yml,${fixture_override}")"
 
 rtl_page="${default_site}/blog/2022/rtl/index.html"
 [ -f "${rtl_page}" ] || fail "RTL demo post was not built"
@@ -74,7 +77,7 @@ grep -q 'al_marimo' "${default_site}/index.html" && fail "home page wrongly load
 # everyone who copies this template.
 override="${tmp_dir}/protect-email.yml"
 printf 'protect_email: true\n' >"${override}"
-protected_site="$(build protected --config "_config.yml,${override}")"
+protected_site="$(build protected --config "_config.yml,${fixture_override},${override}")"
 
 # Scope note: this asserts the gating and the runtime, NOT that site-wide
 # addresses are obfuscated. `al_folio_core`'s metadata.liquid renders social

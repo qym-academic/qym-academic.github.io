@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1838
-  citedby_display: 1,838
+  citedby: 1848
+  citedby_display: 1,848
   hindex: 25
-  last_updated: '2026-09-27'
+  last_updated: '2026-09-28'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -29,7 +29,7 @@ papers:
     title: Tailoring total absorption in a graphene monolayer covered subwavelength multilayer dielectric grating structure at near-infrared frequencies
     year: '2017'
   1UvIUrEAAAAJ:4JMBOYKVnBMC:
-    citations: 56
+    citations: 57
     title: Strong nonreciprocal radiation for extreme small incident angle
     year: '2023'
   1UvIUrEAAAAJ:4OULZ7Gr8RgC:
@@ -69,7 +69,7 @@ papers:
     title: Strong coupling of excitons in patterned few-layer WS2 with guided mode and bound state in the continuum
     year: '2022'
   1UvIUrEAAAAJ:IjCSPb-OGe4C:
-    citations: 146
+    citations: 147
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
@@ -77,7 +77,7 @@ papers:
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 29
+    citations: 30
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
@@ -117,7 +117,7 @@ papers:
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
-    citations: 34
+    citations: 35
     title: Near-perfect nonreciprocal radiation for extremely small incident angle based on cascaded grating structure
     year: '2023'
   1UvIUrEAAAAJ:SeFeTyx0c_EC:
@@ -137,7 +137,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 131
+    citations: 132
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:
@@ -165,7 +165,7 @@ papers:
     title: Tailoring Strong Multimode Interaction in a Graphene-based Coupled Plasmonic System
     year: '2020'
   1UvIUrEAAAAJ:_FxGoFyzp5QC:
-    citations: 82
+    citations: 83
     title: Flexible control of light trapping and localization in a hybrid Tamm plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:_Qo2XoVZTnwC:
@@ -197,7 +197,7 @@ papers:
     title: Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings With Broken Lateral Mirror Symmetry
     year: '2026'
   1UvIUrEAAAAJ:hC7cP41nSMkC:
-    citations: 60
+    citations: 61
     title: Strong nonreciprocal radiation with topological photonic crystal heterostructure
     year: '2022'
   1UvIUrEAAAAJ:hFOr9nPyWt4C:
@@ -209,7 +209,7 @@ papers:
     title: Multichannel nonreciprocal thermal radiation with Weyl semimetal and photonic crystal heterostructure
     year: '2023'
   1UvIUrEAAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 15
     title: Light-Triggered Reversible Tuning of Second-Harmonic Generation in a Photoactive Plasmonic Molecular Nanocavity
     year: '2023'
   1UvIUrEAAAAJ:k_IJM867U9cC:
@@ -257,7 +257,7 @@ papers:
     title: Tunable dual-band perfect metamaterial absorber based on a graphene-SiC hybrid system by multiple resonance modes
     year: '2019'
   1UvIUrEAAAAJ:u_35RYKgDlwC:
-    citations: 3
+    citations: 4
     title: "Reconfigurable Giant Nonreciprocity at Near\u2010Normal Incidence via Phase\u2010Change Magneto\u2010Optical Metagratings"
     year: '2026'
   1UvIUrEAAAAJ:ufrVoPGSRksC:
@@ -265,7 +265,7 @@ papers:
     title: Angle-insensitive dual-functional resonators combining cavity mode resonance and magnetic resonance
     year: '2019'
   1UvIUrEAAAAJ:vV6vV6tmYwMC:
-    citations: 26
+    citations: 27
     title: Dynamic modulation of dual-band nonreciprocal radiation in a graphene-Weyl semimetal plasmonic structure
     year: '2025'
   1UvIUrEAAAAJ:yD5IFk8b50cC:

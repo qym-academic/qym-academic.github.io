@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1848
-  citedby_display: 1,848
+  citedby: 1853
+  citedby_display: 1,853
   hindex: 25
-  last_updated: '2026-09-28'
+  last_updated: '2026-09-30'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -13,11 +13,11 @@ papers:
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 33
+    citations: 34
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
-    citations: 13
+    citations: 14
     title: Near-perfect nonreciprocal radiation with a 0.3 T magnetic field for near normal incidence
     year: '2025'
   1UvIUrEAAAAJ:3s1wT3WcHBgC:
@@ -45,7 +45,7 @@ papers:
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
-    citations: 39
+    citations: 40
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
@@ -137,7 +137,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 132
+    citations: 133
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:
@@ -173,7 +173,7 @@ papers:
     title: A multi-band nonreciprocal thermal emitter involving a Weyl semimetal with a Thue-Morse multilayer
     year: '2023'
   1UvIUrEAAAAJ:aqlVkmm33-oC:
-    citations: 104
+    citations: 105
     title: Transmission-reflection controls and polarization controls of electromagnetic holograms by a reconfigurable anisotropic digital coding metasurface
     year: '2020'
   1UvIUrEAAAAJ:bEWYMUwI8FkC:

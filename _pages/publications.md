@@ -92,10 +92,11 @@ description: 期刊论文、会议论文与授权专利
   <a href="https://orcid.org/0000-0002-5472-8836" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a>
 </div>
 
-<div class="publication-covers" aria-label="期刊封面展示">
+<div class="publication-covers" aria-label="期刊封面与获奖证书展示">
   <a href="{{ '/assets/img/qymgroup/cover-lpr-2026-updated.png' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-lpr-2026-updated.png' | relative_url }}" alt="Laser &amp; Photonics Reviews 2026 年 9 月封面" loading="lazy"></a>
   <a href="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-nanophotonics-2026.jpg' | relative_url }}" alt="Nanophotonics 2026 年封面" loading="lazy"></a>
   <a href="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/cover-acs-photonics-2023.jpeg' | relative_url }}" alt="ACS Photonics 2023 年 1 月封面" loading="lazy"></a>
+  <a href="{{ '/assets/img/qymgroup/iop-top-cited-paper-awards.png' | relative_url }}" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/qymgroup/iop-top-cited-paper-awards.png' | relative_url }}" alt="IOP Publishing 2022 与 2021 年中国高被引论文奖证书" loading="lazy"></a>
 </div>
 
 作者标记：`*` 表示通讯作者，`#` 表示共同第一作者。

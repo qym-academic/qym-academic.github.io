@@ -140,7 +140,7 @@ latest_posts:
       <li>《Photonics》青年编委（2026）</li>
       <li>《Optics and Photonics Reseach》青年编委（2026）</li>
       <li>Bset Oral Presentation Award（2026）</li>
-      <li>World's Top 2% Scientists, Elsevier & Stanford University（2025）</li>
+      <li>World's Top 2% Scientists, Elsevier & Stanford University（2025 & 2026）</li>
       <li>江苏省科协青年托举人才（2024）</li>
       <li>南京邮电大学华礼创新拔尖人才（2025）</li>
       <li>英国物理学会高被引论文奖（1/4）（2021 & 2022）</li>

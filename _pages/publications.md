@@ -106,7 +106,7 @@ description: 期刊论文、会议论文与授权专利
 
 ### 2026
 
-- **[60]** Wu J.; Yan Z.; <strong>Qing Y. M.*</strong>; Spectrally Tunable Metasurface for Multiband Nonreciprocal Thermal Radiation at Near-Normal Incidence. _Journal of Materials Chemistry A_, 2026. [论文链接](https://doi.org/10.1039/D6TA06237G) <!-- scholar:1UvIUrEAAAAJ:cFHS6HbyZ2cC -->
+- **[60]** Wu J.; Yan Z.; <strong>Qing Y. M.*</strong>; Spectrally Tunable Metasurface for Multiband Nonreciprocal Thermal Radiation at Near-Normal Incidence. _Journal of Materials Chemistry A_, 2026, 14, 41482–41491. [论文链接](https://doi.org/10.1039/D6TA06237G) <!-- scholar:1UvIUrEAAAAJ:cFHS6HbyZ2cC -->
 - **[59]** Wang G.; Tang X.; Huang F.; <strong>Qing Y. M.</strong>; Scalable Circularly Polarized Decoupling of Compact Arrays Using Rotation-and Mirror-Symmetric Defected Ground Structures. _IEEE Antennas and Wireless Propagation Letters_, 2026. [论文链接](https://ieeexplore.ieee.org/document/11685310) <!-- scholar:1UvIUrEAAAAJ:yD5IFk8b50cC -->
 - **[58]** <strong>Qing Y. M.*</strong>; Shen Y.; Murai S.; Tanaka K.; Okamoto K.; Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings with Broken Lateral Mirror Symmetry. _Nanophotonics_, 2026, 15 (15), e70244. <span class="publication-badge">(Front Cover)</span> [论文链接](https://doi.org/10.1002/nap2.70244)
 - **[57]** <strong>Qing Y. M.*</strong>; Shen Y.; Wu J.; Murai S.; Dong Z.; Okamoto K.; Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings. _Laser & Photonics Reviews_, 2026, 20 (18), e71438. <span class="publication-badge">(Front Cover)</span> [论文链接](https://onlinelibrary.wiley.com/doi/10.1002/lpor.71438)

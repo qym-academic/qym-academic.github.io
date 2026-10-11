@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1856
-  citedby_display: 1,856
+  citedby: 1859
+  citedby_display: 1,859
   hindex: 25
-  last_updated: '2026-10-09'
+  last_updated: '2026-10-12'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -45,7 +45,7 @@ papers:
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
-    citations: 40
+    citations: 41
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
@@ -165,7 +165,7 @@ papers:
     title: Tailoring Strong Multimode Interaction in a Graphene-based Coupled Plasmonic System
     year: '2020'
   1UvIUrEAAAAJ:_FxGoFyzp5QC:
-    citations: 82
+    citations: 83
     title: Flexible control of light trapping and localization in a hybrid Tamm plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:_Qo2XoVZTnwC:
@@ -245,7 +245,7 @@ papers:
     title: The enhancement of nonreciprocal radiation for light near to normal incidence with double-layer grating
     year: '2023'
   1UvIUrEAAAAJ:rO6llkc54NcC:
-    citations: 0
+    citations: 1
     title: Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons
     year: '2026'
   1UvIUrEAAAAJ:u-x6o8ySG0sC:

@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1859
-  citedby_display: 1,859
+  citedby: 1862
+  citedby_display: 1,862
   hindex: 25
-  last_updated: '2026-10-12'
+  last_updated: '2026-10-14'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -37,7 +37,7 @@ papers:
     title: Highly efficient nonreciprocal thermal emission at near-normal incidence driven by a weak magnetic field in hybrid metasurfaces
     year: '2026'
   1UvIUrEAAAAJ:4TOpqqG69KYC:
-    citations: 54
+    citations: 55
     title: 'Strong coupling in two-dimensional materials-based nanostructures: a review'
     year: '2022'
   1UvIUrEAAAAJ:70eg2SAEIzsC:
@@ -69,7 +69,7 @@ papers:
     title: Strong coupling of excitons in patterned few-layer WS2 with guided mode and bound state in the continuum
     year: '2022'
   1UvIUrEAAAAJ:IjCSPb-OGe4C:
-    citations: 148
+    citations: 149
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
@@ -81,7 +81,7 @@ papers:
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
-    citations: 55
+    citations: 56
     title: Manipulating the light-matter interaction in a topological photonic crystal heterostructure
     year: '2020'
   1UvIUrEAAAAJ:LkGwnXOMwfcC:

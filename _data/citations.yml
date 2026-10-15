@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1862
-  citedby_display: 1,862
+  citedby: 1863
+  citedby_display: 1,863
   hindex: 25
-  last_updated: '2026-10-14'
+  last_updated: '2026-10-16'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -52,6 +52,10 @@ papers:
     citations: 7
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
+  1UvIUrEAAAAJ:D03iK_w7-QYC:
+    citations: 0
+    title: Multidimensional manipulation of nanoscale photothermal distributions using vortex beams
+    year: ''
   1UvIUrEAAAAJ:GnPB-g6toBAC:
     citations: 4
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
@@ -273,6 +277,6 @@ papers:
     title: Scalable Circularly Polarized Decoupling of Compact Arrays Using Rotation-and Mirror-Symmetric Defected Ground Structures
     year: '2026'
   1UvIUrEAAAAJ:zA6iFVUQeVQC:
-    citations: 1
+    citations: 2
     title: A Nile Red-Assisted Colorimetric and SERS Dual-Mode Strategy for the Rapid and Highly Sensitive Detection of Nanoplastics
     year: '2026'

@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1863
-  citedby_display: 1,863
+  citedby: 1866
+  citedby_display: 1,866
   hindex: 25
-  last_updated: '2026-10-16'
+  last_updated: '2026-10-19'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -13,7 +13,7 @@ papers:
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 34
+    citations: 35
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
@@ -55,7 +55,7 @@ papers:
   1UvIUrEAAAAJ:D03iK_w7-QYC:
     citations: 0
     title: Multidimensional manipulation of nanoscale photothermal distributions using vortex beams
-    year: ''
+    year: '2026'
   1UvIUrEAAAAJ:GnPB-g6toBAC:
     citations: 4
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
@@ -121,7 +121,7 @@ papers:
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
-    citations: 35
+    citations: 36
     title: Near-perfect nonreciprocal radiation for extremely small incident angle based on cascaded grating structure
     year: '2023'
   1UvIUrEAAAAJ:SeFeTyx0c_EC:
@@ -177,7 +177,7 @@ papers:
     title: A multi-band nonreciprocal thermal emitter involving a Weyl semimetal with a Thue-Morse multilayer
     year: '2023'
   1UvIUrEAAAAJ:aqlVkmm33-oC:
-    citations: 105
+    citations: 106
     title: Transmission-reflection controls and polarization controls of electromagnetic holograms by a reconfigurable anisotropic digital coding metasurface
     year: '2020'
   1UvIUrEAAAAJ:bEWYMUwI8FkC:
@@ -240,6 +240,10 @@ papers:
     citations: 0
     title: Strong coupling between surface plasmons and magnetic polaritons in a  borophene-based hybrid system
     year: '2024'
+  1UvIUrEAAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: Dynamic beam scanning and polarization manipulation based on a dual-circularly polarized programmable metasurface
+    year: '2026'
   1UvIUrEAAAAJ:qUcmZB5y_30C:
     citations: 18
     title: Near perfect TMOKE in photonic crystal structures for sensing devices with high figure of merit

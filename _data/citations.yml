@@ -1,19 +1,19 @@
 metadata:
-  citedby: 1866
-  citedby_display: 1,866
+  citedby: 1870
+  citedby_display: 1,870
   hindex: 25
-  last_updated: '2026-10-19'
+  last_updated: '2026-10-20'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
     title: 'Tale of Two Resonances: Waveguide-Plasmon Coupling and High Q-Factor Engineering on the Nanoscale'
     year: '2023'
   1UvIUrEAAAAJ:0EnyYjriUFMC:
-    citations: 73
+    citations: 74
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 35
+    citations: 37
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
@@ -153,7 +153,7 @@ papers:
     title: Wide-angle ultrabroadband absorption in black phosphorus/dielectric multilayer anisotropic metamaterials
     year: '2024'
   1UvIUrEAAAAJ:YOwf2qJgpHMC:
-    citations: 17
+    citations: 18
     title: Multifunctional space-time-coding amplitude modulated graphene metasurfaces
     year: '2021'
   1UvIUrEAAAAJ:ZHo1McVdvXMC:

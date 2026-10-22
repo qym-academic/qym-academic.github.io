@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1870
-  citedby_display: 1,870
+  citedby: 1872
+  citedby_display: 1,872
   hindex: 25
-  last_updated: '2026-10-20'
+  last_updated: '2026-10-22'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -49,7 +49,7 @@ papers:
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
-    citations: 7
+    citations: 8
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
   1UvIUrEAAAAJ:D03iK_w7-QYC:
@@ -117,7 +117,7 @@ papers:
     title: One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate
     year: '2024'
   1UvIUrEAAAAJ:R3hNpaxXUhUC:
-    citations: 73
+    citations: 74
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:

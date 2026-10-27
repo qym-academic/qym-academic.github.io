@@ -2,7 +2,7 @@ metadata:
   citedby: 1881
   citedby_display: 1,881
   hindex: 25
-  last_updated: '2026-10-26'
+  last_updated: '2026-10-28'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -196,6 +196,10 @@ papers:
     citations: 17
     title: Tunable near-perfect nonreciprocal radiation with Weyl semimetal and graphene
     year: '2023'
+  1UvIUrEAAAAJ:f2IySw72cVMC:
+    citations: 0
+    title: "Symmetry Breaking Enables Direction‐Selective Power Routing Between Diffraction and Dissipation in Obliquely Metallized Opaque Metagratings"
+    year: '2026'
   1UvIUrEAAAAJ:fPk4N6BV_jEC:
     citations: 2
     title: Reciprocal Asymmetric Transmission in Directionally Metallized Silica Nanogratings With Broken Lateral Mirror Symmetry

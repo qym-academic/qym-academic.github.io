@@ -106,6 +106,7 @@ description: 期刊论文、会议论文与授权专利
 
 ### 2026
 
+- **[63]** <strong>Qing Y. M.*</strong>; Shen Y.; Murai S.; Tanaka K.; Okamoto K.; Symmetry Breaking Enables Direction-Selective Power Routing Between Diffraction and Dissipation in Obliquely Metallized Opaque Metagratings. _Laser & Photonics Reviews_, 2026, e72094. [论文链接](https://doi.org/10.1002/lpor.72094) <!-- scholar:1UvIUrEAAAAJ:f2IySw72cVMC -->
 - **[62]** Gou Y.; Zhang Y.; Zhang Y.; Wang Y.; Ju N.; Chen J.; Lu T.; Tian H.; <strong>Qing Y. M.</strong>; Liu L.; Dynamic beam scanning and polarization manipulation based on a dual-circularly polarized programmable metasurface. _Optics Express_, 2026, 34 (21), 40487–40500. [论文链接](https://opg.optica.org/abstract.cfm?uri=oe-34-21-40487) <!-- scholar:1UvIUrEAAAAJ:pyW8ca7W8N0C -->
 - **[61]** Shen L.; <strong>Qing Y. M.</strong>; Han C.; Wang Y.; Yao J.; Yan C.; Multidimensional manipulation of nanoscale photothermal distributions using vortex beams. _Nanoscale_, 2026. [论文链接](https://pubs.rsc.org/nr/article-abstract/doi/10.1039/d6nr01626j/1368368) <!-- scholar:1UvIUrEAAAAJ:D03iK_w7-QYC -->
 - **[60]** Wu J.; Yan Z.; <strong>Qing Y. M.*</strong>; Spectrally Tunable Metasurface for Multiband Nonreciprocal Thermal Radiation at Near-Normal Incidence. _Journal of Materials Chemistry A_, 2026, 14 (60), 41482–41491. [论文链接](https://doi.org/10.1039/D6TA06237G) <!-- scholar:1UvIUrEAAAAJ:cFHS6HbyZ2cC -->

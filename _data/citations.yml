@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1888
-  citedby_display: 1,888
+  citedby: 1892
+  citedby_display: 1,892
   hindex: 25
-  last_updated: '2026-11-03'
+  last_updated: '2026-11-06'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -13,7 +13,7 @@ papers:
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 37
+    citations: 38
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
@@ -65,7 +65,7 @@ papers:
     title: Wide-angle and broadband nonreciprocal thermal emitter with cascaded dielectric and Weyl semimetal grating structure
     year: '2023'
   1UvIUrEAAAAJ:HoB7MX3m0LUC:
-    citations: 9
+    citations: 10
     title: "Tunable small-angle nonreciprocal radiation and broadband absorption in a GST\u2013Weyl semimetal resonant structure"
     year: '2026'
   1UvIUrEAAAAJ:IWHjjKOFINEC:
@@ -81,7 +81,7 @@ papers:
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 32
+    citations: 33
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
@@ -269,7 +269,7 @@ papers:
     title: Tunable dual-band perfect metamaterial absorber based on a graphene-SiC hybrid system by multiple resonance modes
     year: '2019'
   1UvIUrEAAAAJ:u_35RYKgDlwC:
-    citations: 5
+    citations: 6
     title: "Reconfigurable Giant Nonreciprocity at Near\u2010Normal Incidence via Phase\u2010Change Magneto\u2010Optical Metagratings"
     year: '2026'
   1UvIUrEAAAAJ:ufrVoPGSRksC:

@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1892
-  citedby_display: 1,892
+  citedby: 1890
+  citedby_display: 1,890
   hindex: 25
-  last_updated: '2026-11-06'
+  last_updated: '2026-11-09'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -73,7 +73,7 @@ papers:
     title: Strong coupling of excitons in patterned few-layer WS2 with guided mode and bound state in the continuum
     year: '2022'
   1UvIUrEAAAAJ:IjCSPb-OGe4C:
-    citations: 150
+    citations: 149
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
@@ -141,7 +141,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 134
+    citations: 133
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:

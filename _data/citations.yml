@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1890
-  citedby_display: 1,890
+  citedby: 1895
+  citedby_display: 1,895
   hindex: 25
-  last_updated: '2026-11-09'
+  last_updated: '2026-11-11'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -49,7 +49,7 @@ papers:
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
-    citations: 9
+    citations: 8
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
   1UvIUrEAAAAJ:D03iK_w7-QYC:
@@ -81,7 +81,7 @@ papers:
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 33
+    citations: 34
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
@@ -89,7 +89,7 @@ papers:
     title: Manipulating the light-matter interaction in a topological photonic crystal heterostructure
     year: '2020'
   1UvIUrEAAAAJ:LkGwnXOMwfcC:
-    citations: 27
+    citations: 26
     title: Ultra-narrowband absorption enhancement in monolayer transition-metal dichalcogenides with simple guided-mode resonance filters
     year: '2019'
   1UvIUrEAAAAJ:M05iB0D1s5AC:
@@ -121,7 +121,7 @@ papers:
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
-    citations: 36
+    citations: 37
     title: Near-perfect nonreciprocal radiation for extremely small incident angle based on cascaded grating structure
     year: '2023'
   1UvIUrEAAAAJ:SeFeTyx0c_EC:
@@ -185,7 +185,7 @@ papers:
     title: Strong multi-band nonreciprocal radiation with Fibonacci multilayer involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:cFHS6HbyZ2cC:
-    citations: 0
+    citations: 1
     title: Spectrally Tunable Metasurface for Multiband Nonreciprocal Thermal Radiation at Near-Normal Incidence
     year: '2026'
   1UvIUrEAAAAJ:dfsIfKJdRG4C:
@@ -193,7 +193,7 @@ papers:
     title: A dual circularly polarized 2-bit programmable metasurface
     year: '2026'
   1UvIUrEAAAAJ:e5wmG9Sq2KIC:
-    citations: 17
+    citations: 18
     title: Tunable near-perfect nonreciprocal radiation with Weyl semimetal and graphene
     year: '2023'
   1UvIUrEAAAAJ:f2IySw72cVMC:
@@ -225,7 +225,7 @@ papers:
     title: Strong dual-channel nonreciprocal radiation with guided mode resonances
     year: '2023'
   1UvIUrEAAAAJ:lSLTfruPkqcC:
-    citations: 8
+    citations: 9
     title: Mid-infrared strong nonreciprocal thermal radiation with extremely small applied magnetic field
     year: '2025'
   1UvIUrEAAAAJ:ldfaerwXgEUC:
@@ -269,7 +269,7 @@ papers:
     title: Tunable dual-band perfect metamaterial absorber based on a graphene-SiC hybrid system by multiple resonance modes
     year: '2019'
   1UvIUrEAAAAJ:u_35RYKgDlwC:
-    citations: 6
+    citations: 7
     title: "Reconfigurable Giant Nonreciprocity at Near\u2010Normal Incidence via Phase\u2010Change Magneto\u2010Optical Metagratings"
     year: '2026'
   1UvIUrEAAAAJ:ufrVoPGSRksC:
@@ -277,7 +277,7 @@ papers:
     title: Angle-insensitive dual-functional resonators combining cavity mode resonance and magnetic resonance
     year: '2019'
   1UvIUrEAAAAJ:vV6vV6tmYwMC:
-    citations: 28
+    citations: 29
     title: Dynamic modulation of dual-band nonreciprocal radiation in a graphene-Weyl semimetal plasmonic structure
     year: '2025'
   1UvIUrEAAAAJ:yD5IFk8b50cC:

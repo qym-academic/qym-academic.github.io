@@ -16,17 +16,17 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
     font-size: 1rem;
   }
 
-  .student-achievements {
+  #student-achievements + p + ul {
     list-style: none;
     padding-left: 0;
   }
 
-  .student-achievements > li {
+  #student-achievements + p + ul > li {
     position: relative;
     padding-left: 2em;
   }
 
-  .student-achievements > li > strong:first-child {
+  #student-achievements + p + ul > li > strong:first-child {
     position: absolute;
     left: 0;
   }
@@ -76,7 +76,7 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 
-<h2 style="color: var(--global-theme-color);">学生成果</h2>
+<h2 id="student-achievements" style="color: var(--global-theme-color);">学生成果</h2>
 
 课题组学生姓名以粗体标示。
 
@@ -88,7 +88,6 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 - **[3]** 庆业明；**高家乐**；**蒋卓凡**；勾越；任永泽；刘娇；杨朝雁；“一种基于相变材料-外尔半金属结构的可调非互易吸波器”，2025-12-04，中国，CN202511815410.6。
 - **[2]** **Huang Z. T.**; Jiang H. Y.; Wang Z. Y.; Qing Y. M.\*; Li B. X.; “Thermally-Electrically Tunable Graphene-Based Guided-Mode Resonant Perfect Absorber.” **_IEEE Photonics Technology Letters_**, 2023, 35(4), 175–178. [论文链接](https://doi.org/10.1109/LPT.2022.3228853)
 - **[1]** Qing Y. M.\*; **Huang Z.**; Jiang H.; Li B.; “Polarization-Dependent Thermal-Tunable Graphene-Based Metamaterial Exploiting Critical Coupling with Guided Mode Resonances.” **_Journal of the Optical Society of America B_**, 2023, 40(2), 233–238. [论文链接](https://doi.org/10.1364/JOSAB.478304)
-{: .student-achievements}
 
 <hr style="margin: 2rem 0; border: 0; border-top: 1px solid var(--global-divider-color);">
 

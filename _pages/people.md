@@ -16,19 +16,11 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
     font-size: 1rem;
   }
 
-  #student-achievements + p + ul {
-    list-style: none;
-    padding-left: 0;
-  }
-
   #student-achievements + p + ul > li {
-    position: relative;
-    padding-left: 2em;
-  }
-
-  #student-achievements + p + ul > li > strong:first-child {
-    position: absolute;
-    left: 0;
+    padding-left: 1.34rem;
+    text-indent: -1.34rem;
+    text-align: justify;
+    text-justify: inter-ideograph;
   }
 </style>
 

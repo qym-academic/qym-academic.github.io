@@ -1,8 +1,8 @@
 metadata:
-  citedby: 1895
-  citedby_display: 1,895
+  citedby: 1890
+  citedby_display: 1,890
   hindex: 25
-  last_updated: '2026-11-11'
+  last_updated: '2026-11-13'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
@@ -41,7 +41,7 @@ papers:
     title: 'Strong coupling in two-dimensional materials-based nanostructures: a review'
     year: '2022'
   1UvIUrEAAAAJ:70eg2SAEIzsC:
-    citations: 22
+    citations: 23
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
@@ -49,7 +49,7 @@ papers:
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
-    citations: 8
+    citations: 7
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
   1UvIUrEAAAAJ:D03iK_w7-QYC:
@@ -61,7 +61,7 @@ papers:
     title: Polarization-dependent near-field coupling and far-field harmonic modulation in a graphene-based plasmonic nanostructure
     year: '2024'
   1UvIUrEAAAAJ:HDshCWvjkbEC:
-    citations: 90
+    citations: 89
     title: Wide-angle and broadband nonreciprocal thermal emitter with cascaded dielectric and Weyl semimetal grating structure
     year: '2023'
   1UvIUrEAAAAJ:HoB7MX3m0LUC:
@@ -77,11 +77,11 @@ papers:
     title: Tailoring anisotropic perfect absorption in monolayer black phosphorus by critical coupling at terahertz frequencies
     year: '2018'
   1UvIUrEAAAAJ:JV2RwH3_ST0C:
-    citations: 36
+    citations: 35
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 34
+    citations: 33
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
@@ -109,7 +109,7 @@ papers:
     title: Strong coupling between excitons and guided modes in WS2-based nanostructures
     year: '2020'
   1UvIUrEAAAAJ:NMxIlDl6LWMC:
-    citations: 17
+    citations: 16
     title: Tunable wide-angle dual-channel nonreciprocal radiation in a hybrid graphene-Weyl semimetal structure
     year: '2024'
   1UvIUrEAAAAJ:O3NaXMp0MMsC:
@@ -141,7 +141,7 @@ papers:
     title: Investigation of strong multimode interaction in a graphene-based hybrid coupled plasmonic system
     year: '2019'
   1UvIUrEAAAAJ:WF5omc3nYNoC:
-    citations: 133
+    citations: 132
     title: Near-infrared absorption-induced switching effect via guided mode resonances in a graphene-based metamaterial
     year: '2019'
   1UvIUrEAAAAJ:Wp0gIr-vW9MC:

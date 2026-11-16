@@ -1,23 +1,23 @@
 metadata:
-  citedby: 1890
-  citedby_display: 1,890
-  hindex: 25
-  last_updated: '2026-11-13'
+  citedby: 1913
+  citedby_display: 1,913
+  hindex: 26
+  last_updated: '2026-11-16'
 papers:
   1UvIUrEAAAAJ:-f6ydRqryjwC:
     citations: 22
     title: 'Tale of Two Resonances: Waveguide-Plasmon Coupling and High Q-Factor Engineering on the Nanoscale'
     year: '2023'
   1UvIUrEAAAAJ:0EnyYjriUFMC:
-    citations: 74
+    citations: 75
     title: Theoretical Analysis of Tunable Multimode Coupling in a Grating-Assisted Double-Layer Graphene Plasmonic System
     year: '2019'
   1UvIUrEAAAAJ:2P1L_qKh6hAC:
-    citations: 38
+    citations: 40
     title: 'Responsive cellulose nanocrystal-based liquid crystals: From structural color manipulation to applications'
     year: '2025'
   1UvIUrEAAAAJ:35N4QoGY0k4C:
-    citations: 14
+    citations: 16
     title: Near-perfect nonreciprocal radiation with a 0.3 T magnetic field for near normal incidence
     year: '2025'
   1UvIUrEAAAAJ:3s1wT3WcHBgC:
@@ -41,15 +41,15 @@ papers:
     title: 'Strong coupling in two-dimensional materials-based nanostructures: a review'
     year: '2022'
   1UvIUrEAAAAJ:70eg2SAEIzsC:
-    citations: 23
+    citations: 25
     title: Mid-infrared broadband nonreciprocal thermal radiation involving patterned Weyl semimetal
     year: '2025'
   1UvIUrEAAAAJ:9ZlFYXVOiuMC:
-    citations: 41
+    citations: 42
     title: "Electromagnetic Diffusion and Encryption Holography Integration Based on Reflection\u2013Transmission Reconfigurable Digital Coding Metasurface"
     year: '2022'
   1UvIUrEAAAAJ:BqipwSGYUEgC:
-    citations: 7
+    citations: 9
     title: Strong nonreciprocity for transverse electric and dual-polarization wave with all dielectric structure
     year: '2024'
   1UvIUrEAAAAJ:D03iK_w7-QYC:
@@ -81,11 +81,11 @@ papers:
     title: The enhanced nonreciprocal radiation in a grating structure containing a Weyl semimetal film under conical incidence
     year: '2024'
   1UvIUrEAAAAJ:J_g5lzvAfSwC:
-    citations: 33
+    citations: 35
     title: "Dynamic modulation of nonreciprocal absorption in a graphene\u2013InAs hybrid structure under low magnetic field and small incident angles"
     year: '2025'
   1UvIUrEAAAAJ:KlAtU1dfN6UC:
-    citations: 56
+    citations: 57
     title: Manipulating the light-matter interaction in a topological photonic crystal heterostructure
     year: '2020'
   1UvIUrEAAAAJ:LkGwnXOMwfcC:
@@ -117,7 +117,7 @@ papers:
     title: One-Step Detection of Nanoplastics in Aquatic Environments Using a Portable SERS Chessboard Substrate
     year: '2024'
   1UvIUrEAAAAJ:R3hNpaxXUhUC:
-    citations: 76
+    citations: 79
     title: Nonreciprocal thermal emitter for near perpendicular incident light with cascade grating involving Weyl semimetal
     year: '2023'
   1UvIUrEAAAAJ:RHpTSmoSYBkC:
@@ -161,7 +161,7 @@ papers:
     title: Dynamically Tunable Nonreciprocal Radiation in Hybrid Metastructures
     year: '2025'
   1UvIUrEAAAAJ:ZeXyd9-uunAC:
-    citations: 12
+    citations: 13
     title: Strong coupling of exciton and guided mode in perovskite film with high fabrication-tolerant scheme
     year: '2022'
   1UvIUrEAAAAJ:Zph67rFs4hoC:
@@ -213,7 +213,7 @@ papers:
     title: Thermally-electrically tunable graphene-based guided-mode resonant perfect absorber
     year: '2023'
   1UvIUrEAAAAJ:iH-uZ7U-co4C:
-    citations: 24
+    citations: 26
     title: Multichannel nonreciprocal thermal radiation with Weyl semimetal and photonic crystal heterostructure
     year: '2023'
   1UvIUrEAAAAJ:j3f4tGmQtD8C:
@@ -237,7 +237,7 @@ papers:
     title: Polarization-dependent thermal-tunable graphene-based metamaterial exploiting critical coupling with guided mode resonances
     year: '2023'
   1UvIUrEAAAAJ:maZDTaKrznsC:
-    citations: 42
+    citations: 44
     title: Tunable nonreciprocal radiation for near vertical incident light based on graphene and Weyl semimetal
     year: '2024'
   1UvIUrEAAAAJ:ns9cj8rnVeAC:
@@ -277,7 +277,7 @@ papers:
     title: Angle-insensitive dual-functional resonators combining cavity mode resonance and magnetic resonance
     year: '2019'
   1UvIUrEAAAAJ:vV6vV6tmYwMC:
-    citations: 29
+    citations: 31
     title: Dynamic modulation of dual-band nonreciprocal radiation in a graphene-Weyl semimetal plasmonic structure
     year: '2025'
   1UvIUrEAAAAJ:yD5IFk8b50cC:

@@ -72,7 +72,7 @@ description: 亚波长电磁学、微纳光子学、电磁超构器件
 
 课题组学生姓名以粗体标示。
 
-- **[09]** **Jiang Z.**#; Qing Y. M.#\*; **Zhang X.**; **Ye H.**; **Zhou Z.**; **Gao J.**; Yang Z.; Wu J.; “Phase-change control of dissipation channels and spectral selectivity in a plasmonic structure.” **_Applied Optics_**, 2026, Accepted.
+- **[09]** **Jiang Z.**; Qing Y. M.\*; **Zhang X.**; **Ye H.**; **Zhou Z.**; **Gao J.**; Yang Z.; Wu J.; “Phase-change control of dissipation channels and spectral selectivity in a plasmonic structure.” **_Applied Optics_**, 2026, Accepted.
 - **[08]** **蒋卓凡**：2026年江苏省研究生科研实践创新项目。
 - **[07]** **Gao J.**; Qing Y. M.\*; Ren Y.; **Jiang Z.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Independently tunable dual-band near-infrared absorber based on borophene and Tamm plasmons.” **_Optical Materials Express_**, 2026, 16(5), 1470–1479. [论文链接](https://doi.org/10.1364/OME.599518)
 - **[06]** **Jiang Z.**; Qing Y. M.\*; Gou Y.; **Gao J.**; Wu J.; Shen Y.; Murai S.; Okamoto K.; “Thermally tunable dual-channel ultrahigh-Q absorber in a hybrid grating-photonic crystal.” **_Applied Optics_**, 2026, 65(12), 4150–4155. [论文链接](https://opg.optica.org/ao/abstract.cfm?uri=ao-65-12-4150)

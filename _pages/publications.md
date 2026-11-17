@@ -106,7 +106,7 @@ description: 期刊论文、会议论文与授权专利
 
 ### 2026
 
-- **[64]** Jiang Z.#; <strong>Qing Y. M.#*</strong>; Zhang X.; Ye H.; Zhou Z.; Gao J.; Yang Z.; Wu J.; Phase-change control of dissipation channels and spectral selectivity in a plasmonic structure. _Applied Optics_, 2026, Accepted.
+- **[64]** Jiang Z.; <strong>Qing Y. M.*</strong>; Zhang X.; Ye H.; Zhou Z.; Gao J.; Yang Z.; Wu J.; Phase-change control of dissipation channels and spectral selectivity in a plasmonic structure. _Applied Optics_, 2026, Accepted.
 - **[63]** <strong>Qing Y. M.*</strong>; Shen Y.; Murai S.; Tanaka K.; Okamoto K.; Symmetry Breaking Enables Direction-Selective Power Routing Between Diffraction and Dissipation in Obliquely Metallized Opaque Metagratings. _Laser & Photonics Reviews_, 2026, e72094. [论文链接](https://doi.org/10.1002/lpor.72094) <!-- scholar:1UvIUrEAAAAJ:f2IySw72cVMC -->
 - **[62]** Gou Y.; Zhang Y.; Zhang Y.; Wang Y.; Ju N.; Chen J.; Lu T.; Tian H.; <strong>Qing Y. M.</strong>; Liu L.; Dynamic beam scanning and polarization manipulation based on a dual-circularly polarized programmable metasurface. _Optics Express_, 2026, 34 (21), 40487–40500. [论文链接](https://opg.optica.org/abstract.cfm?uri=oe-34-21-40487) <!-- scholar:1UvIUrEAAAAJ:pyW8ca7W8N0C -->
 - **[61]** Shen L.; <strong>Qing Y. M.</strong>; Han C.; Wang Y.; Yao J.; Yan C.; Multidimensional manipulation of nanoscale photothermal distributions using vortex beams. _Nanoscale_, 2026. [论文链接](https://pubs.rsc.org/nr/article-abstract/doi/10.1039/d6nr01626j/1368368) <!-- scholar:1UvIUrEAAAAJ:D03iK_w7-QYC -->
